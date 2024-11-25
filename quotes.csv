@@ -58,7 +58,7 @@ quotetext,character,title,author,year
 "Anne was tenderness itself, and she had the full worth of it in Captain Wentworth's affection. His profession was all that could ever make her friends wish that tenderness less, the dread of a future war all that could dim her sunshine. She gloried in being a sailor's wife, but she must pay the tax of quick alarm for belonging to that profession which is, if possible, more distinguished in its domestic virtues than in its national importance.","Narrator","Persuasion","Jane Austen","1818"
 "There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves; it is not my nature.","Isabella Thorpe","Northanger Abbey","Jane Austen",1817
 "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.","Mr. Tilney","Northanger Abbey","Jane Austen",1817
-"“Historians, you think are not happy in their flights of fancy. They display imagination without raising interest.”","Miss Tilney","Northanger Abbey","Jane Austen",1817
+"Historians, you think are not happy in their flights of fancy. They display imagination without raising interest.","Miss Tilney","Northanger Abbey","Jane Austen",1817
 "A woman especially, if she have the misfortune of knowing anything, should conceal it as well as she can.","Henry Tilney","Northanger Abbey","Jane Austen",1817
 "Where shall we see a better daughter, or a kinder sister, or a truer friend?","Mrs Weston","Emma","Jane Austen","1816"
 "Better be without sense, than misapply it as you do.","Mrs Weston","Emma","Jane Austen","1816"
@@ -772,3 +772,335 @@ quotetext,character,title,author,year
 "The mud lay thick upon the stones, and a black mist hung over the streets.",,Oliver Twist,Charles Dickens,1838
 "It opens the lungs, washes the countenance, exercises the eyes, and softens down the temper. So cry away.",Mr. Bumble,Oliver Twist,Charles Dickens,1838
 "But death, fires, and burglary, make all men equals...",,Oliver Twist,Charles Dickens,1838
+
+
+"It is only with the heart that one can see rightly; what is essential is invisible to the eye.",,"The Little Prince","Antoine de Saint-Exupéry",1943
+"I am no bird; and no net ensnares me: I am a free human being with an independent will, which I now exert to leave you.",,"Jane Eyre","Charlotte Brontë",1847
+"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go…",,"Oh, the Places You’ll Go!","Dr. Seuss",1990
+"It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",,"A Tale of Two Cities","Charles Dickens",1859
+"Forgiveness condones nothing, but it does cast off the chains of anger, judgment, resentment, denial, and pain that choke growth. In this way, it allows for life, for freedom. So that’s what’s at stake when it comes to forgiveness: freedom. With this freedom, we can feel better, be better, and choose better next time.",,"The Beauty in Breaking","Michele Harper",2017
+"Whenever you feel like criticizing anyone … just remember that all the people in this world haven’t had the advantages that you’ve had.",,"The Great Gatsby","F. Scott Fitzgerald",1925
+"Whatever our souls are made of, his and mine are the same.",,"Wuthering Heights","Emily Brontë",1847
+"A man, after he has brushed off the dust and chips of his life, will have left only the hard, clean questions: Was it good or was it evil? Have I done well — or ill?",,"East of Eden","John Steinbeck",1952
+"This above all: To thine own self be true, And it must follow, as the night the day, Thou canst not then be false to any man.",,"Hamlet","William Shakespeare",1603
+"‘Why did you do all this for me?’ he asked. ‘I don’t deserve it. I’ve never done anything for you.’ ‘You have been my friend,’ replied Charlotte. ‘That in itself is a tremendous thing.’",,"Charlotte’s Web","E.B. White",1952
+"I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It’s when you know you’re licked before you begin but you begin anyway and you see it through no matter what. You rarely win, but sometimes you do.",,"To Kill a Mockingbird","Harper Lee",1960
+"The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.",,"Animal Farm","George Orwell",1945
+"How you live your life is your business. But remember, our hearts and our bodies are given to us only once. Most of us can’t help but live as though we’ve got two lives to live, one is the mockup, the other the finished version, and then there are all those versions in between.",,"Call Me By Your Name","André Aciman",2007
+"And so we beat on, boats against the current, borne back ceaselessly into the past.",,"The Great Gatsby","F. Scott Fitzgerald",1925
+"Generally, by the time you are Real, most of your hair has been loved off, and your eyes drop out and you get loose in the joints and very shabby. But these things don’t matter at all, because once you are Real you can’t be ugly, except to people who don’t understand.",,"Velveteen Rabbit","Margery Williams",1922
+"There are years that ask questions and years that answer.",,"Their Eyes Were Watching God","Zora Neale Hurston",1937
+"Memories warm you up from the inside. But they also tear you apart.",,"Kafka on the Shore","Haruki Murakami",2002
+"Ever’body’s askin’ that. ‘What we comin’ to?’ Seems to me we don’t never come to nothin’. Always on the way.",,"The Grapes of Wrath","John Steinbeck",1939
+"Who controls the past controls the future. Who controls the present controls the past.",,"Nineteen Eighty-Four","George Orwell",1949
+"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",,"Pride and Prejudice","Jane Austen",1813
+"Tomorrow I’ll think of some way to get him back. After all, tomorrow is another day.",,"Gone with the Wind","Margaret Mitchell",1936
+"Why, sometimes, I’ve believed as many as six impossible things before breakfast.",,"Through the Looking-Glass","Lewis Carroll",1871
+"Life is to be lived, not controlled; and humanity is won by continuing to play in face of certain defeat.",,"Invisible Man","Ralph Ellison",1952
+"Don’t ever tell anybody anything. If you do, you start missing everybody.",,"The Catcher in the Rye","J. D. Salinger",1951
+"I had the epiphany that laughter was light, and light was laughter, and that this was the secret of the universe.",,"The Goldfinch","Donna Tartt",2013
+"The world breaks everyone, and afterward, many are strong at the broken places.",,"A Farewell to Arms","Ernest Hemingway",1929
+"From that time on, the world was hers for the reading. She would never be lonely again, never miss the lack of intimate friends. Books became her friends and there was one for every mood.",,"A Tree Grows in Brooklyn","Betty Smith",1943
+"Once upon a time there was a boy who loved a girl, and her laughter was a question he wanted to spend his whole life answering.",,"The History of Love","Nicole Krauss",2005
+"Very few castaways can claim to have survived so long at sea as Mr. Patel, and none in the company of an adult Bengal tiger.",,"Life of Pi","Yann Martel",2001
+"You pierce my soul. I am half agony. Half hope. Tell me not that I am too late, that such precious feelings are gone for ever.",,"Persuasion","Jane Austen",1817
+"You forget what you want to remember, and you remember what you want to forget.",,"The Road","Cormac McCarthy",2006
+"Call me Ishmael.",,"Moby Dick","Herman Melville",1851
+"He has put a knife on the things that held us together and we have fallen apart.",,"Things Fall Apart","Chinua Achebe",1958
+"Nowadays people know the price of everything and the value of nothing.",,"The Picture of Dorian Grey","Oscar Wilde",1890
+"Time is the longest distance between two places.",,"The Glass Menagerie","Tennessee Williams",1945
+"The voice of the sea is seductive, never ceasing, whispering, clamoring, murmuring, inviting the soul to wander in abysses of solitude.",,"The Awakening","Kate Chopin",1899
+"We dream in our waking moments, and walk in our sleep.",,"The Scarlet Letter","Nathaniel Hawthorne",1850
+"But soft! What light through yonder window breaks? It is the east, and Juliet is the sun.",,"Romeo and Juliet","William Shakespeare",1597
+"Memories, even your most precious ones, fade surprisingly quickly. But I don’t go along with that. The memories I value most, I don’t ever see them fading.",,"Never Let Me Go","Kazuo Ishiguro",2005
+"My advice is, never do tomorrow what you can do today. Procrastination is the thief of time.",,"David Copperfield","Charles Dickens",1850
+"So many things are possible just as long as you don’t know they’re impossible.",,"The Phantom Tollbooth","Norton Juster",1961
+"I can’t stand it to think my life is going so fast and I’m not really living it.",,"The Sun Also Rises","Ernest Hemingway",1926
+"The same substance composes us — the tree overhead, the stone beneath us, the bird, the beast, the star — we are all one, all moving to the same end.",,"Mary Poppins","P.L. Travers",1934
+"Made weak by time and fate, but strong in will To strive, to seek, to find, and not to yield.",,"Ulysses","Alfred Lord Tennyson",1859
+"I wish, as well as everybody else, to be perfectly happy; but, like everybody else, it must be in my own way.",,"Sense and Sensibility","Jane Austen",1811
+"Love is holy because it is like grace – the worthiness of its object is never really what matters.",,"Gilead","Marilynne Robinson",2004
+"Brave doesn’t mean you’re not scared. It means you go on even though you’re scared.",,"The Hate U Give","Angie Thomas",2017
+"And, when you want something, all the universe conspires in helping you to achieve it.",,"The Alchemist","Paulo Coelho",1988
+"It doesn’t matter who you are or what you look like, so long as somebody loves you.",,"The Witches","Roald Dahl",1983
+"Life, with its rules, its obligations, and its freedoms, is like a sonnet: You’re given the form, but you have to write the sonnet yourself.",,"A Wrinkle in Time","Madeleine L’Engle",1962
+"The answer to the ultimate question of life, the universe and everything is 42.",,"The Hitchhiker’s Guide to the Galaxy","Douglas Adams",1979
+"All the world’s a stage, and all the men and women merely players. They have their exits and their entrances; And one man in his time plays many parts.",,"As You Like It","William Shakespeare",1623
+"Stay gold, Ponyboy, stay gold.",,"The Outsiders","S. E. Hinton",1967
+"Sometimes I can hear my bones straining under the weight of all the lives I’m not living.",,"Extremely Loud and Incredibly Close","Jonathan Safran Foer",2005
+"Not all those who wander are lost.",,"The Lord of the Rings","J.R.R. Tolkien",1954
+"Do I love you? My God, if your love were a grain of sand, mine would be a universe of beaches.",,"The Princess Bride","William Goldman",1973
+"You don’t know about me without you have read a book by the name of The Adventures of Tom Sawyer, but that ain’t no matter.",,"The Adventures of Huckleberry Finn","Mark Twain",1884
+"Love is the longing for the half of ourselves we have lost.",,"The Unbearable Lightness of Being","Milan Kundera",1984
+"It is our choices, Harry, that show what we truly are, far more than our abilities.",,"Harry Potter and the Chamber of Secrets","J.K. Rowling",1998
+"For you, a thousand times over.",,"The Kite Runner","Khaled Hosseini",2003
+"Then you must teach my daughter this same lesson. How to lose your innocence but not your hope. How to laugh forever.",,"The Joy Luck Club","Amy Tan",1989
+"And may the odds be ever in your favor.",,"The Hunger Games","Suzanne Collins",2008
+"Ralph wept for the end of innocence, the darkness of man’s heart, and the fall through the air of the true, wise friend called Piggy.",,"Lord of the Flies","William Golding",1954
+"Oh, the places you’ll go! You’ll be on your way up! You’ll be seeing great sights! You’ll join the high fliers who soar to high heights.",,"Oh, the Places You’ll Go","Dr. Seuss",1990
+"The longer I live, the more uninformed I feel. Only the young have an explanation for everything.",,"City of the Beasts","Isabel Allende",2002
+"We were the people who were not in the papers. We lived in the blank white spaces at the edges of print. It gave us more freedom. We lived in the gaps between the stories.",,"The Handmaid’s Tale","Margaret Atwood",1985
+"We are such stuff as dreams are made on, and our little life is rounded with a sleep.",,"The Tempest","William Shakespeare",1611
+"As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into an enormous insect.",,"The Metamorphosis","Franz Kafka",1915
+"Most men and women will grow up to love their servitude and will never dream of revolution.",,"Brave New World Revisited","Aldous Huxley",1958
+"But man is not made for defeat, a man can be destroyed but not defeated.",,"The Old Man and the Sea","Ernest Hemingway",1952
+"There is no greater agony than bearing an untold story inside you.",,"I Know Why the Caged Bird Sings","Maya Angelou",1969
+"Anything worth dying for is certainly worth living for.",,"Catch-22","Joseph Heller",1961
+"There is nothing like looking, if you want to find something. You certainly usually find something, if you look, but it is not always quite the something you were after.",,"The Hobbit","J.R.R. Tolkien",1937
+"Real courage is when you know you’re licked before you begin, but you begin anyway and see it through no matter what.",,"To Kill a Mockingbird","Harper Lee",1960
+"All we can know is that we know nothing. And that’s the height of human wisdom.",,"War and Peace","Leo Tolstoy",1869
+"We accept the love we think we deserve.","",,"The Perks of Being a Wallflower","Stephen Chbosky",1999
+"But it’s like trying to hold on to a fistful of sand: all the little bits slip out of your hands, and then you’re just clutching air and grit.","",,"To All The Boys I’ve Loved Before","Jenny Han",2014
+"Unexpressed emotions will never die. They are buried alive, and will come forth later, in uglier ways.","",,"The Silent Patient","Alex Michaelides",2019
+"But the truth is, praise is just like an addiction. The more you get it, the more of it you need just to stay even.","",,"The Seven Husbands of Evelyn Hugo","Taylor Jenkins Reid",2017
+"Knowing too much of your future is never a good thing.","",,"The Lightning Thief","Rick Riordan",2005
+"The heart is an arrow. It demands aim to land true.","",,"Six of Crows","Leigh Bardugo",2015
+"Fear is a phoenix. You can watch it burn a thousand times and still it will return.","",,"Crooked Kingdom","Leigh Bardugo",2016
+"There is no good and evil, there is only power and those too weak to seek it.","",,"Harry Potter and the Sorcerer’s Stone","J.K. Rowling",1997
+"God gives us the ugliness so we don’t take the beautiful things in life for granted.","",,"Ugly Love","Colleen Hoover",2014
+"Some old wounds never truly heal, and bleed again at the slightest word.","",,"A Game of Thrones","George R.R. Martin",1996
+"And that’s how easy it is for a writer to pretend to be someone they aren’t.","",,"Verity","Colleen Hoover",2018
+"Nobody likes being alone that much. I don’t go out of my way to make friends, that’s all. It just leads to disappointment. ","",,"Norwegian Wood","Haruki Murakami",1987
+"A lot of you cared, just not enough.","",,"Thirteen Reasons Why","Jay Asher",2007
+"There’s a difference between really loving someone and loving the idea of her.","",,"Gone Girl","Gillian Flynn",2012
+"Impulsive actions led to trouble, and trouble could have unpleasant consequences.","",,"The Girl with the Dragon Tattoo","Stieg Larsson",2005
+"He really had been through death, but he had returned because he could not bear the solitude.","",,"One Hundred Years of Solitude","Gabriel García Márquez",1967
+"Like most misery, it started with apparent happiness.","",,"The Book Thief","Markus Zusak",2005
+"Behind every trial and sorrow that He makes us shoulder, God has a reason.","",,"A Thousand Splendid Suns","Khaled Hosseini",2007
+"Perhaps that’s why I find myself looking backward. The past has a clarity I can no longer see in the present.","",,"The Nightingale","Kristin Hannah",2015
+"It had always seemed to him a very plush kind of problem, a privilege, really, to consider whether life was meaningful or not.","",,"A Little Life","Hanya Yanagihara",2015
+"She had never dreamed there could be so much pain in a life when there was nothing physically wrong. She hurt all the time.",,"The Shining","Stephen King",1977
+"I am not afraid of storms, for I am learning how to sail my ship.","",,"Little Women","Louisa May Alcott",1868
+"Kindred spirits are not so scarce as I used to think. It’s splendid to find out there are so many of them in the world.",,"Anne of Green Gables","L.M. Montgomery",1908
+"Humans are so ill-equipped for peace.","",,"The Invisible Life of Addie LaRue","V.E. Schwab",2020
+"People always clap for the wrong reasons.",,"The Catcher in the Rye","J.D. Salinger",1951
+"There is some good in this world, and it’s worth fighting for.",,"The Two Towers","J.R.R. Tolkien",1954
+"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.",,"Life's Little Instruction Book","H. Jackson Brown Jr.",1991
+"Well-behaved women seldom make history.",,"Well-Behaved Women Seldom Make History","Laurel Thatcher Ulrich",1989
+"It is better to be hated for what you are than to be loved for what you are not.",,"Autumn Leaves","André Gide",1956
+"Who, being loved, is poor?",,"A Woman of No Importance","Oscar Wilde",1893
+"Every human life is worth the same, and worth saving.",,"Harry Potter and the Deathly Hallows","J.K. Rowling",2007
+"Get busy living, or get busy dying.",,"Different Seasons","Stephen King",1982
+"The goal isn’t to live forever, the goal is to create something that will.",,"Diary","Chuck Palahniuk",2009
+"Travel far enough, you meet yourself.",,"Cloud Atlas","David Mitchell",2004
+"None of us really changes over time. We only become more fully what we are.",,"The Vampire Lestat","Anne Rice",1985
+"Most people are nice when you finally see them.",,"To Kill a Mockingbird","Harper Lee",1960
+"Don’t panic.",,"The Hitchhiker’s Guide to the Galaxy","Douglas Adams",1979
+"All endings are also beginnings. We just don’t know it at the time.",,"The Five People You Meet In Heaven","Mitch Albom",2003
+"When someone leaves, it’s because someone else is about to arrive.",,"The Zahir","Paulo Coelho",2005
+"It’s no use going back to yesterday, because I was a different person then.",,"Alice’s Adventures in Wonderland","Lewis Carroll",1865
+"The only limits for tomorrow are the doubts we have today.",,"The Power of Six","Pittacus Lore",2011
+"It is our choices that show what we truly are, far more than our abilities.",,"Harry Potter and the Chamber of Secrets","J.K. Rowling",1998
+"If we wait until we’re ready, we’ll be waiting for the rest of our lives.",,"The Ersatz Elevator","Lemony Snicket",2004
+"I don’t want to die without any scars.",,"Fight Club","Chuck Palahniuk",1996
+"Fear doesn’t shut you down; it wakes you up.",,"Divergent","Veronica Roth",2011
+"Because when you are imagining, you might as well imagine something worth while.",,"Anne of Green Gables","Lucy Maud Montgomery",1908
+"The worst enemy to creativity is self-doubt.",,"The Unabridged Journals of Sylvia Plath","Sylvia Plath",2000
+"Yes: I am a dreamer. For a dreamer is one who can only find his way by moonlight, and his punishment is that he sees the dawn before the rest of the world.",,"The Critic as Artist","Oscar Wilde",1891
+"I dream. Sometimes I think that’s the only right thing to do.",,"Sputnik Sweetheart","Haruki Murakami",1999
+"Not all those who wander are lost.",,"The Fellowship of the Ring","J.R.R. Tolkien",1954
+"If I got rid of my demons, I’d lose my angels.",,"Conversations with Tennessee Williams","Tennessee Williams",1969
+"It is sometimes an appropriate response to reality to go insane.",,"Valis","Philip K. Dick",1981
+"If you’re making mistakes it means you’re out there doing something.",,"Make Good Art","Neil Gaiman",2013
+"Even a stopped clock is right twice a day.",,"Brida","Paulo Coelho",1990
+"If my life is going to mean anything, I have to live it myself.",,"The Lightning Thief","Rick Riordan",2005
+"To define is to limit.",,"The Picture of Dorian Gray","Oscar Wilde",1890
+"Art enables us to find ourselves and lose ourselves at the same time.",,"No Man Is an Island","Thomas Merton",1955
+"If you don’t imagine, nothing ever happens at all.",,"Paper Towns","John Green",2008
+"Everything is possible. The impossible just takes longer.",,"Digital Fortress","Dan Brown",1998
+"So many things are possible just as long as you don’t know they’re impossible.",,"The Phantom Tollbooth","Norton Juster",1961
+"We are all in the gutter, but some of us are looking at the stars.",,"Lady Windermere’s Fan","Oscar Wilde",1892
+"Pain is inevitable. Suffering is optional.",,"What I Talk About When I Talk About Running","Haruki Murakami",2007
+"Above all, don’t lie to yourself.",,"The Brothers Karamazov","Fyodor Dostoyevsky",1880
+"Some infinities are bigger than other infinities.",,"The Fault in Our Stars","John Green",2012
+"You never know what worse luck your bad luck has saved you from.",,"No Country For Old Men","Cormac McCarthy",2005
+"We must all face the choice between what is right and what is easy.",,"Harry Potter and the Goblet of Fire","J.K. Rowling",2000
+"Nothing that’s worthwhile is ever easy.",,"Message in a Bottle","Nicholas Sparks",1998
+"It’s only after we’ve lost everything that we’re free to do anything.",,"Fight Club","Chuck Palahniuk",1996
+"Time you enjoy wasting is not wasted time.",,"Phrynette Married","Marthe Troly-Curtin",1912
+"It is never too late to be wise.",,"Robinson Crusoe","Daniel Defoe",1719
+"Appear weak when you are strong, and strong when you are weak.",,"The Art of War","Sun Tzu",-500
+"When you want something, all the universe conspires in helping you to achieve it.",,"The Alchemist","Paulo Coelho",1988
+"One day I will find the right words, and they will be simple.",,"The Dharma Bums","Jack Kerouac",1958
+"Anything worth dying for is certainly worth living for.",,"Catch-22","Joseph Heller",1961
+"All we have to decide is what to do with the time that is given to us.",,"The Fellowship of the Ring","J.R.R. Tolkien",1954
+"There is some good in this world, and it’s worth fighting for.","","The Two Towers","J.R.R. Tolkien","1954"
+"It is only with the heart that one can see rightly; what is essential is invisible to the eye.","","The Little Prince","Antoine de Saint-Exupéry","1943"
+"I am no bird; and no net ensnares me: I am a free human being with an independent will, which I now exert to leave you.","","Jane Eyre","Charlotte Brontë","1847"
+"It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.","","A Tale of Two Cities","Charles Dickens","1859"
+"Beware; for I am fearless, and therefore powerful.","","Frankenstein","Mary Shelley","1818"
+"I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It’s when you know you’re licked before you begin but you begin anyway and you see it through no matter what. You rarely win, but sometimes you do.","","To Kill a Mockingbird","Harper Lee","1960"
+"A man, after he has brushed off the dust and chips of his life, will have left only the hard, clean questions: Was it good or was it evil? Have I done well — or ill?","","East of Eden","John Steinbeck","1952"
+"The only way out of the labyrinth of suffering is to forgive.","","Looking for Alaska","John Green","2005"
+"This above all: To thine own self be true, And it must follow, as the night the day, Thou canst not then be false to any man.","","Hamlet","William Shakespeare","1603"
+"‘Why did you do all this for me?’ he asked. ‘I don’t deserve it. I’ve never done anything for you.’ ‘You have been my friend,’ replied Charlotte. ‘That in itself is a tremendous thing.’","","Charlotte’s Web","E.B. White","1952"
+"I took a deep breath and listened to the old brag of my heart: I am, I am, I am.","","The Bell Jar","Sylvia Plath","1963"
+"Love is or it ain’t. Thin love ain’t love at all.","","Beloved","Toni Morrison","1987"
+"We accept the love we think we deserve.","","The Perks of Being a Wallflower","Stephen Chbosky","1999"
+"And so we beat on, boats against the current, borne back ceaselessly into the past.","","The Great Gatsby","F. Scott Fitzgerald","1925"
+"Generally, by the time you are Real, most of your hair has been loved off, and your eyes drop out and you get loose in the joints and very shabby. But these things don’t matter at all, because once you are Real you can’t be ugly, except to people who don’t understand.","","Velveteen Rabbit","Margery Williams","1922"
+"Ever’body’s askin’ that. ‘What we comin’ to?’ Seems to me we don’t never come to nothin'. Always on the way.","","The Grapes of Wrath","John Steinbeck","1939"
+"Whatever our souls are made of, his and mine are the same.","","Wuthering Heights","Emily Brontë","1847"
+"There are years that ask questions and years that answer.","","Their Eyes Were Watching God","Zora Neale Hurston","1937"
+"I am not afraid of storms, for I am learning how to sail my ship.","","Little Women","Louisa May Alcott","1868"
+"All happy families are alike; each unhappy family is unhappy in its own way.","","Anna Karenina","Leo Tolstoy","1877"
+"Memories warm you up from the inside. But they also tear you apart.","","Kafka on the Shore","Haruki Murakami","2002"
+"It is nothing to die; it is dreadful not to live.","","Les Misérables","Victor Hugo","1862"
+"Who controls the past controls the future. Who controls the present controls the past.","","Nineteen Eighty-Four","George Orwell","1949"
+"Life is to be lived, not controlled; and humanity is won by continuing to play in face of certain defeat.","","Invisible Man","Ralph Ellison","1952"
+"Last night I dreamt I went to Manderley again.","","Rebecca","Daphne du Maurier","1938"
+"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.","","Pride and Prejudice","Jane Austen","1813"
+"Tomorrow I’ll think of some way to get him back. After all, tomorrow is another day.","","Gone with the Wind","Margaret Mitchell","1936"
+"Why, sometimes, I’ve believed as many as six impossible things before breakfast.","","Through the Looking-Glass","Lewis Carroll","1871"
+"Don’t ever tell anybody anything. If you do, you start missing everybody.","","The Catcher in the Rye","J. D. Salinger","1951"
+"It does not do to dwell on dreams and forget to live.","","Harry Potter and the Sorcerer’s Stone","J.K. Rowling","1997"
+"You pierce my soul. I am half agony. Half hope. Tell me not that I am too late, that such precious feelings are gone for ever.","","Persuasion","Jane Austen","1817"
+"So it goes…","","Slaughterhouse-Five","Kurt Vonnegut","1969"
+"I had the epiphany that laughter was light, and light was laughter, and that this was the secret of the universe.","","The Goldfinch","Donna Tartt","2013"
+"There are some things you learn best in calm, and some in storm.","","The Song of the Lark","Willa Cather","1915"
+"When you play the game of thrones you win or you die.","","A Game of Thrones","George R. R. Martin","1996"
+"The world breaks everyone, and afterward, many are strong at the broken places.","","A Farewell to Arms","Ernest Hemingway","1929"
+"From that time on, the world was hers for the reading. She would never be lonely again, never miss the lack of intimate friends. Books became her friends and there was one for every mood.","","A Tree Grows in Brooklyn","Betty Smith","1943"
+"Once upon a time there was a boy who loved a girl, and her laughter was a question he wanted to spend his whole life answering.","","The History of Love","Nicole Krauss","2005"
+"Very few castaways can claim to have survived so long at sea as Mr. Patel, and none in the company of an adult Bengal tiger.","","Life of Pi","Yann Martel","2001"
+"Anyone who ever gave you confidence, you owe them a lot.","","Breakfast at Tiffany’s","Truman Capote","1958"
+"Isn’t it nice to think that tomorrow is a new day with no mistakes in it yet?","","Anne of Green Gables","L. M. Montgomery","1908"
+"You forget what you want to remember, and you remember what you want to forget.","","The Road","Cormac McCarthy","2006"
+"Call me Ishmael.","","Moby Dick","Herman Melville","1851"
+"It was a pleasure to burn.","","Fahrenheit 451","Ray Bradbury","1953"
+"The past is not dead. In fact, it’s not even past.","","Requiem for a Nun","William Faulkner","1951"
+"He has put a knife on the things that held us together and we have fallen apart.","","Things Fall Apart","Chinua Achebe","1958"
+"’And now,’ cried Max, ‘let the wild rumpus start!’","","Where the Wild Things Are","Maurice Sendak","1963"
+"Memories, even your most precious ones, fade surprisingly quickly. But I don’t go along with that. The memories I value most, I don’t ever see them fading.","","Never Let Me Go","Kazuo Ishiguro","2005"
+"Nowadays people know the price of everything and the value of nothing.","","The Picture of Dorian Grey","Oscar Wilde","1890"
+"Time is the longest distance between two places.","","The Glass Menagerie","Tennessee Williams","1945"
+"The voice of the sea is seductive, never ceasing, whispering, clamoring, murmuring, inviting the soul to wander in abysses of solitude.","","The Awakening","Kate Chopin","1899"
+"We dream in our waking moments, and walk in our sleep.","","The Scarlet Letter","Nathaniel Hawthorne","1850"
+"The place where you made your stand never mattered. Only that you were there… and still on your feet.","","The Stand","Stephen King","1978"
+"But soft! What light through yonder window breaks? It is the east, and Juliet is the sun.","","Romeo and Juliet","William Shakespeare","1597"
+"My advice is, never do tomorrow what you can do today. Procrastination is the thief of time.","","David Copperfield","Charles Dickens","1850"
+"So many things are possible just as long as you don’t know they’re impossible.","","The Phantom Tollbooth","Norton Juster","1961"
+"I can’t stand it to think my life is going so fast and I’m not really living it.","","The Sun Also Rises","Ernest Hemingway","1926"
+"There is only one page left to write on. I will fill it with words of only one syllable. I love. I have loved. I will love.","","I Capture the Castle","Dodie Smith","1948"
+"It doesn’t matter who you are or what you look like, so long as somebody loves you.","","The Witches","Roald Dahl","1983"
+"The same substance composes us — the tree overhead, the stone beneath us, the bird, the beast, the star — we are all one, all moving to the same end.","","Mary Poppins","P.L. Travers","1934"
+"I wish, as well as everybody else, to be perfectly happy; but, like everybody else, it must be in my own way.","","Sense and Sensibility","Jane Austen","1811"
+"Love is holy because it is like grace – the worthiness of its object is never really what matters.","","Gilead","Marilynne Robinson","2004"
+"Each time you happen to me all over again.","","The Age of Innocence","Edith Wharton","1920"
+"Brave doesn’t mean you’re not scared. It means you go on even though you’re scared.","","The Hate U Give","Angie Thomas","2017"
+"How easy it was to lie to strangers, to create with strangers the versions of our lives we imagined.","","Americanah","Chimamanda Ngozi Adichie","2013"
+"And, when you want something, all the universe conspires in helping you to achieve it.","","The Alchemist","Paulo Coelho","1988"
+"Life, with its rules, its obligations, and its freedoms, is like a sonnet: You’re given the form, but you have to write the sonnet yourself.","","A Wrinkle in Time","Madeleine L’Engle","1962"
+"There is always something left to love.","","One Hundred Years of Solitude","Gabriel García Márquez","1967"
+"The answer to the ultimate question of life, the universe and everything is 42.","","The Hitchhiker’s Guide to the Galaxy","Douglas Adams","1979"
+"All the world’s a stage, and all the men and women merely players. They have their exits and their entrances; And one man in his time plays many parts.","","As You Like It","William Shakespeare","1623"
+"Stay gold, Ponyboy, stay gold.","","The Outsiders","S. E. Hinton","1967"
+"Sometimes I can hear my bones straining under the weight of all the lives I’m not living.","","Extremely Loud and Incredibly Close","Jonathan Safran Foer","2005"
+"Do I love you? My God, if your love were a grain of sand, mine would be a universe of beaches.","","The Princess Bride","William Goldman","1973"
+"Time moves slowly, but passes quickly.","","The Color Purple","Alice Walker","1982"
+"You don’t know about me without you have read a book by the name of The Adventures of Tom Sawyer, but that ain’t no matter.","","The Adventures of Huckleberry Finn","Mark Twain","1884"
+"Love is the longing for the half of ourselves we have lost.","","The Unbearable Lightness of Being","Milan Kundera","1984"
+"It is our choices, Harry, that show what we truly are, far more than our abilities.","","Harry Potter and the Chamber of Secrets","J.K. Rowling","1998"
+"For you, a thousand times over.","","The Kite Runner","Khaled Hosseini","2003"
+"Then you must teach my daughter this same lesson. How to lose your innocence but not your hope. How to laugh forever.","","The Joy Luck Club","Amy Tan","1989"
+"And may the odds be ever in your favor.","","The Hunger Games","Suzanne Collins","2008"
+"Ralph wept for the end of innocence, the darkness of man’s heart, and the fall through the air of the true, wise friend called Piggy.","","Lord of the Flies","William Golding","1954"
+"All human wisdom is summed up in these two words – ‘Wait and hope.’","","The Count of Monte Cristo","Alexandre Dumas","1844"
+"Oh, the places you’ll go! You’ll be on your way up! You’ll be seeing great sights! You’ll join the high fliers who soar to high heights.","","Oh, the Places You’ll Go","Dr. Seuss","1990"
+"The longer I live, the more uninformed I feel. Only the young have an explanation for everything.","","City of the Beasts","Isabel Allende","2002"
+"Open your eyes and see what you can with them before they close forever.","","All the Light We Cannot See","Anthony Doerr","2014"
+"If you have the guts to be yourself, other people’ll pay your price.","","Rabbit, Run","John Updike","1960"
+"We were the people who were not in the papers. We lived in the blank white spaces at the edges of print. It gave us more freedom. We lived in the gaps between the stories.","","The Handmaid’s Tale","Margaret Atwood","1985"
+"As Gregor Samsa awoke one morning from uneasy dreams he found himself transformed in his bed into an enormous insect.","","The Metamorphosis","Franz Kafka","1915"
+"What does the brain matter compared with the heart?","","Mrs. Dalloway","Virginia Woolf","1925"
+"We are such stuff as dreams are made on, and our little life is rounded with a sleep.","","The Tempest","William Shakespeare","1611"
+"The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.","","Animal Farm","George Orwell","1945"
+"Most men and women will grow up to love their servitude and will never dream of revolution.","","Brave New World Revisited","Aldous Huxley","1958"
+"There is no greater agony than bearing an untold story inside you.","","I Know Why the Caged Bird Sings","Maya Angelou","1969"
+"As he read, I fell in love the way you fall asleep: slowly, and then all at once.","","The Fault in Our Stars","John Green","2012"
+"Anything worth dying for is certainly worth living for.","","Catch-22","Joseph Heller","1961"
+"All the world is made of faith, and trust, and pixie dust.","","Peter Pan","J.M. Barrie","1911"
+"Get busy living or get busy dying.","","Rita Hayworth and Shawshank Redemption","Stephen King","1982"
+"But man is not made for defeat, a man can be destroyed but not defeated.","","The Old Man and the Sea","Ernest Hemingway","1952"
+"All we can know is that we know nothing. And that’s the height of human wisdom.","","War and Peace","Leo Tolstoy","1869"
+"There is nothing like looking, if you want to find something. You certainly usually find something, if you look, but it is not always quite the something you were after.","","The Hobbit","J.R.R. Tolkien","1937"
+"Life offers up these moments of joy despite everything.","","Normal People","Sally Rooney","2018"
+"The world may be mean, but people don’t have to be, not if they refuse.","","The Underground Railroad","Colson Whitehead","2016"
+"We had made a fetish out of our misfortune, fallen in love with it.","","The Dutch House","Ann Patchett","2019"
+"Just like a murderer jumps out of nowhere in an alley, love jumped out in front of us and struck us both at once.","","The Master and Margarita","Mikhail Bulgakov","1967"
+"Life changes in the instant. The ordinary instant.","","The Year of Magical Thinking","Joan Didion","2005"
+"I have a theory that selflessness and bravery aren’t all that different.","","Divergent","Veronica Roth","2011"
+"That’s the thing about books. They let you travel without moving your feet.","","The Namesake","Jhumpa Lahiri","2003"
+"We don’t have time, Nephew, time has us. It holds us in its mouth like an owl holds a field mouse.","","There There","Tommy Orange","2018"
+"I have been bent and broken, but - I hope - into a better shape.","","Great Expectations","Charles Dickens","1861"
+"Though sympathy alone can’t alter facts, it can help to make them more bearable.","","Dracula","Bram Stoker","1897"
+"Happiness is a gift, and the trick is not to expect it but to delight in it when it comes.","","Nicholas Nickleby","Charles Dickens","1838"
+"I had the epiphany that laughter was light, and light was laughter, and that this was the secret of the universe.","","The Goldfinch","Donna Tartt","2013"
+"I urge you to please notice when you are happy, and exclaim or murmur or think at some point, ‘If this isn’t nice, I don’t know what is.'","","A Man Without a Country","Kurt Vonnegut","2005"
+"Science has taught me that everything is more complicated than we first assume and that being able to derive happiness from discovery is a recipe for a beautiful life.","","Lab Girl","Hope Jahren","2016"
+"There seems to be something miraculous about seeing the relentless optimism of new growth after the bleakness of winter, a kind of joy in the difference every year.","","Me Before You","Jojo Moyes","2012"
+"I wish, as well as everybody else, to be perfectly happy; but, like everybody else, it must be in my own way.","","Sense and Sensibility","Jane Austen","1811"
+"Life offers up these moments of joy despite everything.","","Normal People","Sally Rooney","2018"
+"I would always rather be happy than dignified.","","Jane Eyre","Charlotte Brontë","1847"
+"Human beings need loyalty. It does not necessarily produce happiness, and can even be painful, but we all require devotion to something more than ourselves for our lives to be endurable.","","Being Mortal","Atul Gawande","2014"
+"Sadness is intrinsically part of the fabric of happiness. You can’t have one without the other. Of course, they come in different degrees and quantities.","","The Midnight Library","Matt Haig","2020"
+"The moment you doubt whether you can fly, you cease forever to be able to do it.","","Peter Pan","J.M. Barrie","1911"
+"There is no greater agony than bearing an untold story inside you.","","I Know Why the Caged Bird Sings","Maya Angelou","1969"
+"What’s the point of having a voice if you’re gonna be silent in those moments you shouldn’t be?","","The Hate U Give","Angie Thomas","2017"
+"Recovering from suffering is not like recovering from a disease. Many people don’t come out healed; they come out different.","","The Road to Character","David Brooks","2015"
+"It’s only after we’ve lost everything that we’re free to do anything.","","Fight Club","Chuck Palahniuk","1996"
+"Open your eyes and see what you can with them before they close forever.","","All the Light We Cannot See","Anthony Doerr","2014"
+"Wherever you fly, you’ll be best of the best. Wherever you go, you will top all the rest. Except when you don’t. Because, sometimes, you won’t.","","The Places You’ll Go!","Dr. Seuss","1990"
+"The experience was powerful and fundamental. It seemed to me that it had always felt like this to be a human in the wild, and as long as the wild existed, it would always feel this way.","","Wild","Cheryl Strayed","2012"
+"Each of us is more than the worst thing we’ve ever done.","","Just Mercy","Bryan Stevenson","2014"
+"Most of us can’t help but live as though we’ve got two lives to live, one is the mockup, the other the finished version, and then there are all those versions in between.","","Call Me by Your Name","André Aciman","2007"
+"When you can’t find someone to follow, you have to find a way to lead by example.","","Bad Feminist","Roxane Gay","2014"
+"It is only with the heart that one can see rightly; what is essential is invisible to the eye.","","The Little Prince","Antoine de Saint-Exupéry","1943"
+"There is no greater threat to the critics and cynics and fearmongers than those of us who are willing to fall because we have learned how to rise.","","Rising Strong","Brené Brown","2015"
+"All we have to decide is what to do with the time that is given to us.","","The Fellowship of the Ring","J.R.R. Tolkien","1954"
+"That’s the thing about books. They let you travel without moving your feet.","","The Namesake","Jhumpa Lahiri","2003"
+"Whatever the present moment contains, accept it as if you had chosen it. Always work with it, not against it. Make it your friend and ally, not your enemy.","","The Power of Now","Eckhart Tolle","1997"
+"Nothing in life is as important as you think it is while you are thinking about it.","","Thinking, Fast and Slow","Daniel Kahneman","2011"
+"Enthusiasm makes up for a host of deficiencies.","","A Promised Land","Barack Obama","2020"
+"For there is always light, / If only we’re brave enough to see it. / If only we’re brave enough to be it.","","Call Us What We Carry","Amanda Gorman","2021"
+"You are your best thing.","","Beloved","Toni Morrison","1987"
+"Wasn’t friendship its own miracle, the finding of another person who made the entire lonely world seem somehow less lonely?","","A Little Life","Hanya Yanagihara","2015"
+"Human knowledge is never contained in one person. It grows from the relationships we create between each other and the world, and still, it is never complete.","","When Breath Becomes Air","Paul Kalanithi","2016"
+"'I wonder what Piglet is doing,' thought Pooh. 'I wish I were there to be doing it too.'","","Winnie-the-Pooh","A.A. Milne","1926"
+"Friendship is constant in all other things.","","Much Ado About Nothing","William Shakespeare","1599"
+"She is a friend of my mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order.","","Beloved","Toni Morrison","1987"
+"Kindred spirits are not so scarce as I used to think. It’s splendid to find out there are so many of them in the world.","","Anne of Green Gables","L.M. Montgomery","1908"
+"It is our choices, Harry, that show what we truly are, far more than our abilities.","","Harry Potter and the Chamber of Secrets","J.K. Rowling","1998"
+"Well, you can’t make old friends.","","Swing Time","Zadie Smith","2016"
+"We cannot tell the precise moment when friendship is formed. As in filling a vessel drop by drop, there is at last a drop which makes it run over; so in a series of kindnesses there is at last one which makes the heart run over.","","Fahrenheit 451","Ray Bradbury","1953"
+"A friend may be waiting behind a stranger’s face.","","Letter to My Daughter","Maya Angelou","2008"
+"They were all growing up and into each other like trees striving together for the sun.","","The Raven King","Maggie Stiefvater","2011"
+"Sometimes people just want to feel heard. Here’s to possibilities of friendship and connection and understanding.","","Americanah","Chimamanda Ngozi Adichie","2013"
+"Don’t ever think I fell for you, or fell over you. I didn’t fall in love, I rose in it.","","Jazz","Toni Morrison","1992"
+"As he read, I fell in love the way you fall asleep: slowly, and then all at once.","","The Fault in Our Stars","John Green","2012"
+"We accept the love we think we deserve.","","The Perks of Being a Wallflower","Stephen Chbosky","1999"
+"When you make loving others the story of your life, there’s never a final chapter, because the legacy continues. You lend your light to one person, and he or she shines it on another and another and another.","","What I Know for Sure","Oprah Winfrey","2014"
+"I was told love should be unconditional. That’s the rule, everyone says so. But if love has no boundaries, no limits, no conditions, why should anyone try to do the right thing ever? If I know I am loved no matter what, where is the challenge?","","Gone Girl","Gillian Flynn","2012"
+"Beautiful people spend time discovering what their idea of beauty on this earth is. They know themselves well enough to know what they love, and they love themselves enough to fill up with a little of their particular kind of beauty each day.","","Love Warrior","Glennon Doyle","2016"
+"Whatever our souls are made of, his and mine are the same.","","Wuthering Heights","Emily Brontë","1847"
+"There is always something left to love.","","One Hundred Years of Solitude","Gabriel García Márquez","1967"
+"Do I love you? My God, if your love were a grain of sand, mine would be a universe of beaches.","","The Princess Bride","William Goldman","1973"
+"Love was an action, an instinct, a response roused by unplanned moments and small gestures, an inconvenience in someone else’s favor.","","Crying in H Mart","Michelle Zauner","2021"
+"Loving somebody isn’t perfection and good times and laughing and making love. Love is forgiveness and patience and faith and every once in a while, it’s a gut punch.","","Daisy Jones & the Six","Taylor Jenkins Reid","2019"
+"He was too young to know that the heart’s memory eliminates the bad and magnifies the good, and that thanks to this artifice we manage to endure the burden of the past.","","Love in the Time of Cholera","Gabriel García Márquez","1985"
+"My bounty is as boundless as the sea, / My love as deep. The more I give to thee, / The more I have, for both are infinite.","","Romeo and Juliet","William Shakespeare","1597"
+"You don’t love someone because they’re perfect, you love them in spite of the fact that they’re not.","","My Sister’s Keeper","Jodi Picoult","2004"
+"Love is lak de sea. It’s uh movin’ thing, but still and all, it takes its shape from de shore it meets, and it’s different with every shore.","","Their Eyes Were Watching God","Zora Neale Hurston","1937"
+"The more you love someone, he came to think, the harder it is to tell them. It surprised him that strangers didn’t stop each other on the street to say I love you.","","Everything Is Illuminated","Jonathan Safran Foer","2002"
+"You cannot convince people to love you. This is an absolute rule. No one will ever give you love because you want him or her to give it. Real love moves freely in both directions. Don’t waste your time on anything else.","","Tiny Beautiful Things","Cheryl Strayed","2012"
+"The love between humans is the thing that nails us to this earth.","","This Is the Story of a Happy Marriage","Ann Patchett","2013"
+"When you start to love yourself for the first time, when you start to truly embrace who you are—flaws and all—your scars start to look a lot more like beauty marks.","","Sissy","Jacob Tobia","2019"
+"Becoming isn’t about arriving somewhere or achieving a certain aim. I see it instead as forward motion, a means of evolving, a way to reach continuously toward a better self.","","Becoming","Michelle Obama","2018"
+"Home isn’t where you land; home is where you launch. You can’t pick your home any more than you can choose your family.","","An American Marriage","Tayari Jones","2018"
+"First we only want to be seen, but once we’re seen, that’s not enough anymore. After that, we want to be remembered.","","Station Eleven","Emily St. John Mandel","2014"
+"You never really understand a person until you consider things from his point of view … until you climb inside of his skin and walk around in it.","","To Kill a Mockingbird","Harper Lee","1960"
+"We don’t know what we don’t know. We don’t even know the questions we need to ask in order to find out, but when we learn one tiny little thing, a dim light comes on in a dark hallway, and suddenly a new question appears.","","Transcendent Kingdom","Yaa Gyasi","2020"
+"A true soul mate is a mirror, the person who shows you everything that is holding you back, the person who brings you to your own attention so you can change your life.","","Eat, Pray, Love","Elizabeth Gilbert","2006"
+"It’s the possibility of having a dream come true that makes life interesting.","","The Alchemist","Paulo Coelho","1988"
+"Time moves slowly but passes quickly.","","The Color Purple","Alice Walker","1982"
+"When I discover who I am, I’ll be free.","","Invisible Man","Ralph Ellison","1952"
