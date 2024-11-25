@@ -337,13 +337,10 @@ quotetext,character,title,author,year
 "This little affair is only a model. It is my plan for a machine to travel through Time.",,"The Time Machine","H. G. Wells",1895
 "Destiny is not a path you blindly follow. There are still choices to be made, and sometimes the heart speaks loudest.",Leafpool,Sign of the Moon,Erin Hunter,2003
 "Listen to your heart, because that's where your true destiny lies.",Leafpool,Sign of the Moon,Erin Hunter,2003
-"Even though she had just nearly been killed by two ShadowClan Warriors, she felt as if her paws were walking on the wind, and her head was filled with stars.",,,
 "Destiny isn't a path that any cat follows blindly. It is always a matter of choice, and sometimes the heart speaks loudest. Deep down, I always knew what I had to do, and that's why I came back to the Clan.",Leafpool,Sign of the Moon,Erin Hunter,2003
 "We all make mistakes. Some have echoes that last forever.",Littlecloud,Fading Echoes,Erin Hunter,2006
 "You must burn as brightly as this fire to protect your Clan. Survival is more important than the code of the medicine cats.",Raggedstar,Night Whispers,Erin Hunter,2009
 "Listen to your heart, because that's where your true destiny lies.",Leafpool,Sign of the Moon,Erin Hunter,2003
-"Even though she had just nearly been killed by two ShadowClan Warriors, she felt as if her paws were walking on the wind, and her head was filled with stars.",,,
-"Blackstar, welcome to our camp!",Blackstar,,
 "Mistake them, and allow the past to haunt you forever. Trust in your heart and the path it shows you.",Leafpool,Sign of the Moon,Erin Hunter,2003
 "But then... it used to be so simple, once upon a time.",,"Witches Abroad","Terry Pratchett",1991
 "Granny Weatherwax didn't like maps. She felt instinctively that they sold the landscape short.",Granny Weatherwax,"Witches Abroad","Terry Pratchett",1991
@@ -609,7 +606,7 @@ quotetext,character,title,author,year
 "Secrets and lies, that's how we grew up, and Albus ... he was a natural.","Aberforth Dumbledore","Harry Potter and the Deathly Hallows","J.K. Rowling",2007
 "Albus Severus, you were named for two headmasters of Hogwarts. One of them was a Slytherin and he was probably the bravest man I ever knew.","Ron Weasley","Harry Potter and the Deathly Hallows","J.K. Rowling",2007
 "If you wish to leave with your students we shall not stop you, but if any of you attempt to sabotage our resistance or take up arms against us within this castle, then Horace, we duel to kill.","Minerva McGonagall","Harry Potter and the Deathly Hallows","J.K. Rowling",2007
-"THE CHAMBER OF SECRETS HAS BEEN OPENED ENEMIES OF THE HEIR BEWARE",,"Harry Potter and the Chamber of Secrets","J.K. Rowling",1998
+"THE CHAMBER OF SECRETS HAS BEEN OPENED - ENEMIES OF THE HEIR BEWARE",,"Harry Potter and the Chamber of Secrets","J.K. Rowling",1998
 "At least no one on Gryffindor team had to buy their way in. They got in on pure talent.",Hermione,"Harry Potter and the Chamber of Secrets","J.K. Rowling",1998
 "I will only truly have left this school when none here are loyal to me … Help will always be given at Hogwarts to those who ask for it.",Dumbledore,"Harry Potter and the Chamber of Secrets","J.K. Rowling",1998
 "It’s not all book signings and publicity photos, you know. You want fame, you have to be prepared for a long hard slog.",Gilderoy Lockhart,"Harry Potter and the Chamber of Secrets","J.K. Rowling",1998
@@ -669,7 +666,6 @@ quotetext,character,title,author,year
 "It seemed to him that the most horrible fact of human existence was that broken hearts mended.",,"Wizard and Glass","Stephen King","1997"
 "If you love me, then love me.","Susan Delgado","Wizard and Glass","Stephen King","1997"
 "Because sometimes, silence is best.","Roland","Wizard and Glass","Stephen King","1997"
-"Ka like the wind.","Susan Delgado","Wizard and Glass","Stephen King","1997"
 "Even if the torture stops, I'll die. And you'll die too, for when love leaves the world, all hearts are still.","The Beam","The Dark Tower","Stephen King","2004"
 "Most creatures would give their right claw to be a dragon.",Shimmer,"Dragon War","Laurence Yep",1992
 "It was like being born again when you took me away.",Indigo,"Dragon War","Laurence Yep",1992
@@ -772,8 +768,6 @@ quotetext,character,title,author,year
 "The mud lay thick upon the stones, and a black mist hung over the streets.",,Oliver Twist,Charles Dickens,1838
 "It opens the lungs, washes the countenance, exercises the eyes, and softens down the temper. So cry away.",Mr. Bumble,Oliver Twist,Charles Dickens,1838
 "But death, fires, and burglary, make all men equals...",,Oliver Twist,Charles Dickens,1838
-
-
 "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",,"The Little Prince","Antoine de Saint-Exupéry",1943
 "I am no bird; and no net ensnares me: I am a free human being with an independent will, which I now exert to leave you.",,"Jane Eyre","Charlotte Brontë",1847
 "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go…",,"Oh, the Places You’ll Go!","Dr. Seuss",1990
@@ -849,30 +843,30 @@ quotetext,character,title,author,year
 "There is nothing like looking, if you want to find something. You certainly usually find something, if you look, but it is not always quite the something you were after.",,"The Hobbit","J.R.R. Tolkien",1937
 "Real courage is when you know you’re licked before you begin, but you begin anyway and see it through no matter what.",,"To Kill a Mockingbird","Harper Lee",1960
 "All we can know is that we know nothing. And that’s the height of human wisdom.",,"War and Peace","Leo Tolstoy",1869
-"We accept the love we think we deserve.","",,"The Perks of Being a Wallflower","Stephen Chbosky",1999
-"But it’s like trying to hold on to a fistful of sand: all the little bits slip out of your hands, and then you’re just clutching air and grit.","",,"To All The Boys I’ve Loved Before","Jenny Han",2014
-"Unexpressed emotions will never die. They are buried alive, and will come forth later, in uglier ways.","",,"The Silent Patient","Alex Michaelides",2019
-"But the truth is, praise is just like an addiction. The more you get it, the more of it you need just to stay even.","",,"The Seven Husbands of Evelyn Hugo","Taylor Jenkins Reid",2017
-"Knowing too much of your future is never a good thing.","",,"The Lightning Thief","Rick Riordan",2005
-"The heart is an arrow. It demands aim to land true.","",,"Six of Crows","Leigh Bardugo",2015
-"Fear is a phoenix. You can watch it burn a thousand times and still it will return.","",,"Crooked Kingdom","Leigh Bardugo",2016
-"There is no good and evil, there is only power and those too weak to seek it.","",,"Harry Potter and the Sorcerer’s Stone","J.K. Rowling",1997
-"God gives us the ugliness so we don’t take the beautiful things in life for granted.","",,"Ugly Love","Colleen Hoover",2014
-"Some old wounds never truly heal, and bleed again at the slightest word.","",,"A Game of Thrones","George R.R. Martin",1996
-"And that’s how easy it is for a writer to pretend to be someone they aren’t.","",,"Verity","Colleen Hoover",2018
-"Nobody likes being alone that much. I don’t go out of my way to make friends, that’s all. It just leads to disappointment. ","",,"Norwegian Wood","Haruki Murakami",1987
-"A lot of you cared, just not enough.","",,"Thirteen Reasons Why","Jay Asher",2007
-"There’s a difference between really loving someone and loving the idea of her.","",,"Gone Girl","Gillian Flynn",2012
-"Impulsive actions led to trouble, and trouble could have unpleasant consequences.","",,"The Girl with the Dragon Tattoo","Stieg Larsson",2005
-"He really had been through death, but he had returned because he could not bear the solitude.","",,"One Hundred Years of Solitude","Gabriel García Márquez",1967
-"Like most misery, it started with apparent happiness.","",,"The Book Thief","Markus Zusak",2005
-"Behind every trial and sorrow that He makes us shoulder, God has a reason.","",,"A Thousand Splendid Suns","Khaled Hosseini",2007
-"Perhaps that’s why I find myself looking backward. The past has a clarity I can no longer see in the present.","",,"The Nightingale","Kristin Hannah",2015
-"It had always seemed to him a very plush kind of problem, a privilege, really, to consider whether life was meaningful or not.","",,"A Little Life","Hanya Yanagihara",2015
+"We accept the love we think we deserve.","","The Perks of Being a Wallflower","Stephen Chbosky",1999
+"But it’s like trying to hold on to a fistful of sand: all the little bits slip out of your hands, and then you’re just clutching air and grit.","","To All The Boys I’ve Loved Before","Jenny Han",2014
+"Unexpressed emotions will never die. They are buried alive, and will come forth later, in uglier ways.","","The Silent Patient","Alex Michaelides",2019
+"But the truth is, praise is just like an addiction. The more you get it, the more of it you need just to stay even.","","The Seven Husbands of Evelyn Hugo","Taylor Jenkins Reid",2017
+"Knowing too much of your future is never a good thing.","","The Lightning Thief","Rick Riordan",2005
+"The heart is an arrow. It demands aim to land true.","","Six of Crows","Leigh Bardugo",2015
+"Fear is a phoenix. You can watch it burn a thousand times and still it will return.","","Crooked Kingdom","Leigh Bardugo",2016
+"There is no good and evil, there is only power and those too weak to seek it.","","Harry Potter and the Sorcerer’s Stone","J.K. Rowling",1997
+"God gives us the ugliness so we don’t take the beautiful things in life for granted.","","Ugly Love","Colleen Hoover",2014
+"Some old wounds never truly heal, and bleed again at the slightest word.","","A Game of Thrones","George R.R. Martin",1996
+"And that’s how easy it is for a writer to pretend to be someone they aren’t.","","Verity","Colleen Hoover",2018
+"Nobody likes being alone that much. I don’t go out of my way to make friends, that’s all. It just leads to disappointment. ","","Norwegian Wood","Haruki Murakami",1987
+"A lot of you cared, just not enough.","","Thirteen Reasons Why","Jay Asher",2007
+"There’s a difference between really loving someone and loving the idea of her.","","Gone Girl","Gillian Flynn",2012
+"Impulsive actions led to trouble, and trouble could have unpleasant consequences.","","The Girl with the Dragon Tattoo","Stieg Larsson",2005
+"He really had been through death, but he had returned because he could not bear the solitude.","","One Hundred Years of Solitude","Gabriel García Márquez",1967
+"Like most misery, it started with apparent happiness.","","The Book Thief","Markus Zusak",2005
+"Behind every trial and sorrow that He makes us shoulder, God has a reason.","","A Thousand Splendid Suns","Khaled Hosseini",2007
+"Perhaps that’s why I find myself looking backward. The past has a clarity I can no longer see in the present.","","The Nightingale","Kristin Hannah",2015
+"It had always seemed to him a very plush kind of problem, a privilege, really, to consider whether life was meaningful or not.","","A Little Life","Hanya Yanagihara",2015
 "She had never dreamed there could be so much pain in a life when there was nothing physically wrong. She hurt all the time.",,"The Shining","Stephen King",1977
-"I am not afraid of storms, for I am learning how to sail my ship.","",,"Little Women","Louisa May Alcott",1868
+"I am not afraid of storms, for I am learning how to sail my ship.","","Little Women","Louisa May Alcott",1868
 "Kindred spirits are not so scarce as I used to think. It’s splendid to find out there are so many of them in the world.",,"Anne of Green Gables","L.M. Montgomery",1908
-"Humans are so ill-equipped for peace.","",,"The Invisible Life of Addie LaRue","V.E. Schwab",2020
+"Humans are so ill-equipped for peace.","","The Invisible Life of Addie LaRue","V.E. Schwab",2020
 "People always clap for the wrong reasons.",,"The Catcher in the Rye","J.D. Salinger",1951
 "There is some good in this world, and it’s worth fighting for.",,"The Two Towers","J.R.R. Tolkien",1954
 "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.",,"Life's Little Instruction Book","H. Jackson Brown Jr.",1991
