@@ -1,4 +1,14 @@
 quotetext,character,title,author,year,quotelength,quote_words,quote_sentences,characterlength,character_words,quote_exclemation,quote_question,sentiment_compound,readability_score,lexical_diversity
+"Behind every exquisite thing that existed, there was something tragic.",," ""The Picture of Dorian Gray"""," ""Oscar Wilde""",1890,70,10,1,0,0,0,0,-0.4588,44.41,1.0
+Children begin by loving their parents; as they grow older they judge them; sometimes they forgive them.,," ""The Picture of Dorian Gray"""," ""Oscar Wilde""",1890,104,17,1,0,0,0,0,0.7184,71.14,0.8823529411764706
+"Every portrait that is painted with feeling is a portrait of the artist, not of the sitter.",," ""The Picture of Dorian Gray"""," ""Oscar Wilde""",1890,91,17,1,0,0,0,0,0.128,71.14,0.7647058823529411
+Experience is merely the name men gave to their mistakes.,," ""The Picture of Dorian Gray"""," ""Oscar Wilde""",1890,57,10,1,0,0,0,0,-0.3612,69.79,1.0
+Mere words! How terrible they were! One could not escape from them. And yet what a subtle magic there was in them!,," ""The Picture of Dorian Gray"""," ""Oscar Wilde""",1890,114,22,4,0,0,3,0,-0.6698,97.91,1.0
+The basis of optimism is sheer terror.,," ""The Picture of Dorian Gray"""," ""Oscar Wilde""",1890,38,7,1,0,0,0,0,0.0258,64.37,1.0
+"There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.",," ""The Picture of Dorian Gray"""," ""Oscar Wilde""",1890,108,22,3,0,0,0,0,-0.7351,97.91,0.9090909090909091
+"There is only one thing in the world worse than being talked about, and that is not being talked about.",," ""The Picture of Dorian Gray"""," ""Oscar Wilde""",1890,103,20,1,0,0,0,0,-0.4767,85.02,0.85
+Those who find ugly meanings in beautiful things are corrupt without being charming. This is a fault. Those who find beautiful meanings in beautiful things are the cultivated.,," ""The Picture of Dorian Gray"""," ""Oscar Wilde""",1890,175,28,3,0,0,0,0,0.5615,62.04,0.6785714285714286
+"Whenever a man does a thoroughly stupid thing, it is always from the noblest motives.",," ""The Picture of Dorian Gray"""," ""Oscar Wilde""",1890,85,15,1,0,0,0,0,-0.5709,64.71,0.9333333333333333
 Maybe 'okay' will be our 'always.,,'The Fault in Our Stars','John Green',2012,33,6,1,0,0,0,0,0.2263,99.23,1.0
 I wonder what Piglet is doing. I wish I were there to be doing it too.,Pooh,Winnie-the-Pooh,A.A. Milne,1926,70,16,2,4,1,0,0,0.4019,97.2,0.875
 Be sure thy sin will find thee out.,,And Then There Were None,Agatha Christie,1939,35,8,1,0,0,0,0,-0.3182,114.12,1.0
@@ -139,7 +149,37 @@ I wish to go on living even after my death.,Anne Frank,The Diary of a Young Girl
 Whoever is happy will make others happy.,Anne Frank,The Diary of a Young Girl,Anne Frank,1947,40,7,1,10,2,0,0,0.8126,55.91,1.0
 "Women should be respected as well! Generally speaking, men are held in great esteem in all parts of the world, so why shouldn't women have their share?",Anne Frank,The Diary of a Young Girl,Anne Frank,1947,151,27,2,10,2,1,1,0.8955,74.69,0.9629629629629629
 "You can be lonely even when you are loved by many people, since you are still not anybody's one and only.",Anne Frank,The Diary of a Young Girl,Anne Frank,1947,105,21,1,10,2,0,0,0.34,84.0,0.9047619047619048
+A summer rain had left the night clean and sparkling with drops of water.,,Interview with the Vampire,Anne Rice,1976,73,14,1,0,0,0,0,0.5994,99.57,1.0
+Every moment must be first known and then savored.,,Interview with the Vampire,Anne Rice,1976,50,9,1,0,0,0,0,0.0,87.72,1.0
+Evil is always possible. And goodness is eternally difficult.,,Interview with the Vampire,Anne Rice,1976,61,9,2,0,0,0,0,-0.5994,41.53,0.8888888888888888
+I lived like a man who wanted to die but who had no courage to do it himself.,,Interview with the Vampire,Anne Rice,1976,77,18,1,0,0,0,0,-0.63,95.51,0.8888888888888888
+"I was a newborn vampire, weeping at the beauty of the night.",,Interview with the Vampire,Anne Rice,1976,60,12,1,0,0,0,0,0.2263,84.68,0.9166666666666666
+It was as if when I looked into his eyes I was standing alone on the edge of the world...on a windswept ocean beach.,,Interview with the Vampire,Anne Rice,1976,116,24,4,0,0,0,0,-0.25,101.6,0.875
+"Mortal beauty often makes me ache, and mortal grandeur can fill me with that longing...but Paris, Paris drew me close to her heart.",,Interview with the Vampire,Anne Rice,1976,131,23,4,0,0,0,0,0.8689,85.18,0.9130434782608695
+"Paris was a universe whole and entire unto herself, hollowed and fashioned by history.",,Interview with the Vampire,Anne Rice,1976,86,14,1,0,0,0,0,0.0,57.27,0.9285714285714286
+The only power that exists is inside ourselves.,,Interview with the Vampire,Anne Rice,1976,47,8,1,0,0,0,0,0.0,63.36,1.0
+"The world changes, we do not, therein lies the irony that kills us.",,Interview with the Vampire,Anne Rice,1976,67,13,1,0,0,0,0,-0.3331,100.58,1.0
+"You see that old woman? That will never happen to you. You will never grow old, and you will never die.",,Interview with the Vampire,Anne Rice,1976,103,21,3,0,0,0,1,0.4847,98.21,0.7619047619047619
+"Yet I had never been so alluring. Dear God, this is love. This is desire.",Lestat,The Vampire Lestat,Anne Rice,1985,73,15,3,6,1,0,0,0.903,91.78,0.9333333333333333
+An intoxication with forbidden knowledge in which the natural things become unimportant.,,The Vampire Lestat,Anne Rice,1985,88,12,1,0,0,0,0,-0.3818,25.46,1.0
+"As for oblivion, well, we can wait a little while for that.",,The Vampire Lestat,Anne Rice,1985,59,12,1,0,0,0,0,0.2732,93.14,0.9166666666666666
+Beauty was a Savage Garden.,,The Vampire Lestat,Anne Rice,1985,27,5,1,0,0,0,0,0.2023,66.4,1.0
+I am an unwilling devil. I cry like some vagrant child. I want to go home.,,The Vampire Lestat,Anne Rice,1985,74,16,3,0,0,0,0,-0.6908,91.48,0.875
+I stumble through a carnival of horrors.,,The Vampire Lestat,Anne Rice,1985,40,7,1,0,0,0,0,-0.5719,64.37,1.0
 None of us really changes over time. We only become more fully what we are.,,The Vampire Lestat,Anne Rice,1985,75,15,2,0,0,0,0,0.0,89.24,1.0
+The simplest way to break glass is simply to drop it on the floor.,,The Vampire Lestat,Anne Rice,1985,66,14,1,0,0,0,0,-0.2732,99.57,0.9285714285714286
+The sky was never quite the same shade of blue again.,,The Vampire Lestat,Anne Rice,1985,53,11,1,0,0,0,0,0.0,102.61,1.0
+Very few beings really seek knowledge in this world. To really ask is to open the door to the whirlwind.,,The Vampire Lestat,Anne Rice,1985,104,20,2,0,0,0,0,0.0,78.25,0.85
+"We breathe the light, we breathe the music, we breathe the moment as it passes through us.",,The Vampire Lestat,Anne Rice,1985,90,17,1,0,0,0,0,0.0,88.06,0.7058823529411765
+"But let me be a lover in the Savage Garden with you, and the light that went out of life would come back in a great burst of glory.",Daniel,The Queen of the Damned,Anne Rice,1988,131,29,1,6,1,0,0,0.9274,84.34,0.8620689655172413
+"History is a litany of injustice, no one denies it. But when has a simple solution ever been anything but evil? Only in complexity do we find answers. ",Lestat,The Queen of the Damned,Anne Rice,1988,151,28,3,6,1,0,1,-0.7531,70.5,0.9642857142857143
+"And you must know we do not really change over time; we are as flowers unfolding, we merely become more nearly ourselves.",,The Queen of the Damned,Anne Rice,1988,121,22,1,0,0,0,0,0.0,66.07,0.9090909090909091
+I've always been my own teacher. And I must confess I've been my favorite pupil as well.,,The Queen of the Damned,Anne Rice,1988,88,17,2,0,0,0,0,0.6249,96.69,0.8235294117647058
+It is not man who is the enemy of the human species. It is the irrational; it is the spiritual when it is divorced from the material.,,The Queen of the Damned,Anne Rice,1988,133,27,2,0,0,0,0,-0.7096,74.69,0.6296296296296297
+It was haunted; but real hauntings have nothing to do with ghosts finally; they have to do with the menace of memory.,,The Queen of the Damned,Anne Rice,1988,117,22,1,0,0,0,0,-0.7469,66.07,0.8181818181818182
+"It's an awful truth that suffering can deepen us, give a greater lustre to our colours, a richer resonance to our words.",,The Queen of the Damned,Anne Rice,1988,120,22,1,0,0,0,0,0.2732,66.07,0.8636363636363636
+"so important to believe in a concept of goodness, even if we make it up ourselves. We don't really make it up. it's there, isn't it?",,The Queen of the Damned,Anne Rice,1988,132,26,3,0,0,0,1,0.624,88.02,0.9230769230769231
+you do get wiser when you live for hundreds of years; but you also have more time to turn out as badly as your enemies always said you might.,,The Queen of the Damned,Anne Rice,1988,141,29,1,0,0,0,0,-0.8338,75.88,0.8620689655172413
 Am I just to be like a clockwork orange?,Alex,A Clockwork Orange,Anthony Burgess,1962,40,9,1,4,1,0,1,0.3612,96.18,1.0
 "It was like a bird of rarest-spun heaven metal or like silvery wine flowing in a spaceship, gravity all nonsense now.",Alex,A Clockwork Orange,Anthony Burgess,1962,117,21,1,4,1,0,0,0.6808,67.08,0.9047619047619048
 It’s funny how the colours of the real world only seem really real when you viddy them on the screen.,Alex,A Clockwork Orange,Anthony Burgess,1962,101,20,1,4,1,0,0,0.4404,68.1,0.85
@@ -312,16 +352,34 @@ The child must have a valuable thing which is called imagination. The child must
 They learned no compassion from their own anguish. thus their suffering was wasted.,,A Tree Grows in Brooklyn,Betty Smith,1943,83,13,2,0,0,0,0,-0.9132,73.34,0.9230769230769231
 The world seems full of good meneven if there are monsters in it.,Mina Harker,Dracula,Bram Stoker,1897,65,13,1,11,2,0,0,0.4404,92.12,1.0
 "Remember, my friend, that knowledge is stronger than memory, and we should not trust the weaker.",Professor Abraham Van Helsing,Dracula,Bram Stoker,1897,96,16,1,29,4,0,0,0.6709,72.16,1.0
-No one but a woman can help a man when he is in trouble of the heart.,Quincey Morris,Dracula,Bram Stoker,1897,69,17,1,14,2,0,0,0.7351,96.52,0.9411764705882353
 "Do you not think that there are things which you cannot understand, and yet which are, that some people see things that others cannot?",Van Helsing,Dracula,Bram Stoker,1897,134,24,1,11,2,0,1,0.0,72.5,0.7916666666666666
+"Ah, it is the fault of our science that it wants to explain all; and if it explain not, then it says there is nothing to explain.",,Dracula,Bram Stoker,1897,129,27,1,0,0,0,0,-0.4019,77.91,0.7777777777777778
 Despair has its own calms.,,Dracula,Bram Stoker,1897,26,5,1,0,0,0,0,0.0,100.24,1.0
+Do you believe in destiny? That even the powers of time can be altered for a single purpose?,,Dracula,Bram Stoker,1897,92,18,2,0,0,0,2,0.0,87.72,1.0
+"Do you not think that there are things which you cannot understand, and yet which are; that some people see things that others cannot?",,Dracula,Bram Stoker,1897,134,24,1,0,0,0,1,0.0,72.5,0.7916666666666666
+"How blessed are some people, whose lives have no fears, no dreads; to whom sleep is a blessing that comes nightly, and brings nothing but sweet dreams.",,Dracula,Bram Stoker,1897,151,27,1,0,0,0,0,0.0183,86.37,0.9629629629629629
+How good and thoughtful he is; the world seems full of good men--even if there are monsters in it.,,Dracula,Bram Stoker,1897,98,19,1,0,0,0,0,0.8126,86.03,0.9473684210526315
 "I am all in a sea of wonders. I doubt; I fear; I think strange things, which I dare not confess to my own soul. God keep me, if only for the sake of those dear to me!",,Dracula,Bram Stoker,1897,166,38,3,0,0,1,0,-0.4753,100.88,0.8421052631578947
+"I am longing to be with you, and by the sea, where we can talk together freely and build our castles in the air.",,Dracula,Bram Stoker,1897,112,24,1,0,0,0,0,0.4215,80.96,0.9166666666666666
 I sometimes think we must be all mad and that we shall wake to sanity in strait-waistcoats.,,Dracula,Bram Stoker,1897,91,17,1,0,0,0,0,-0.4939,79.6,0.9411764705882353
+I want you to believe...to believe in things that you cannot.,,Dracula,Bram Stoker,1897,61,11,4,0,0,0,0,0.0772,82.81,0.9090909090909091
+"It is a strange world, a sad world, a world full of miseries, and woes, and troubles. And yet when King Laugh come, he make them all dance to the tune he play.",,Dracula,Bram Stoker,1897,159,33,2,0,0,0,0,-0.8176,97.03,0.8484848484848485
 Listen to them  the children of the night. What music they make.,,Dracula,Bram Stoker,1897,64,12,2,0,0,0,0,0.0,90.77,0.9166666666666666
+Loneliness will sit over our roofs with brooding wings.,,Dracula,Bram Stoker,1897,55,9,1,0,0,0,0,-0.4019,87.72,1.0
 No man knows till he has suffered from the night how sweet and dear to his heart and eye the morning can be.,,Dracula,Bram Stoker,1897,108,23,1,0,0,0,0,0.6597,90.43,0.9130434782608695
+No one but a woman can help a man when he is in trouble of the heart.,,Dracula,Bram Stoker,1897,69,17,1,0,0,0,0,0.7351,96.52,0.9411764705882353
+"Remember my friend, that knowledge is stronger than memory, and we should not trust the weaker",,Dracula,Bram Stoker,1897,94,16,0,0,0,0,0,0.6709,72.16,1.0
+She has man's brain--a brain that a man should have were he much gifted--and woman's heart.,,Dracula,Bram Stoker,1897,91,16,1,0,0,0,0,0.6369,97.54,1.0
 She has mans braina brain that a man should have were he much giftedand a womans heart.,,Dracula,Bram Stoker,1897,87,17,1,0,0,0,0,0.6369,96.52,0.9411764705882353
+"There are darknesses in life and there are lights, and you are one of the lights, the light of all lights.",,Dracula,Bram Stoker,1897,106,21,1,0,0,0,0,0.0,92.46,0.7142857142857143
+"Though sympathy alone can't alter facts, it can help to make them more bearable.",,Dracula,Bram Stoker,1897,80,14,1,0,0,0,0,0.4939,82.65,1.0
 "Though sympathy alone can’t alter facts, it can help to make them more bearable.",,Dracula,Bram Stoker,1897,80,14,1,0,0,0,0,0.4939,82.65,1.0
+"We learn from failure, not from success!",,Dracula,Bram Stoker,1897,40,7,1,0,0,1,0,-0.7643,89.75,0.8571428571428571
 There is no greater threat to the critics and cynics and fearmongers than those of us who are willing to fall because we have learned how to rise.,,Rising Strong,Brené Brown,2015,146,28,1,0,0,0,0,-0.2105,76.9,0.8928571428571429
+Is evil something you are? Or is it something you do?,Patrick Bateman,American Psycho,Bret Easton Ellis,1991,53,11,2,15,2,0,2,-0.6966,99.73,0.8181818181818182
+"I feel I'm moving toward as well as away from something, and anything is possible.",,American Psycho,Bret Easton Ellis,1991,82,15,1,0,0,0,0,0.2732,73.17,0.9333333333333333
+"I had all the characteristics of a human being- flesh, blood, skin, hair- but my depersonalization was so intense...",,American Psycho,Bret Easton Ellis,1991,116,19,3,0,0,0,0,0.2759,52.19,1.0
+It strikes me profoundly that the world is more often than not a bad and cruel place.,,American Psycho,Bret Easton Ellis,1991,85,17,1,0,0,0,0,-0.5346,88.06,1.0
 Each of us is more than the worst thing we’ve ever done.,,Just Mercy,Bryan Stevenson,2014,56,12,1,0,0,0,0,-0.6557,101.6,1.0
 "Rise up, Sir Peter Wolf's-Bane. And, whatever happens, never forget to wipe your sword.",Aslan,"The Lion, the Witch and the Wardrobe",C. S. Lewis,1950,87,14,2,5,1,0,0,0.1695,72.83,1.0
 "You shall meet me, dear one.",Aslan,"The Lion, the Witch and the Wardrobe",C. S. Lewis,1950,28,6,1,5,1,0,0,0.3818,116.15,1.0
@@ -510,6 +568,36 @@ The road to Manderley lay ahead. There was no moon.,,Rebecca,Daphne du Maurier,1
 Will you look into my eyes and tell me that you love me now?,,Rebecca,Daphne du Maurier,1938,60,14,1,0,0,0,1,0.6369,99.57,0.8571428571428571
 Recovering from suffering is not like recovering from a disease. Many people don’t come out healed; they come out different.,,The Road to Character,David Brooks,2015,124,20,2,0,0,0,0,-0.6381,61.33,0.85
 "Travel far enough, you meet yourself.",,Cloud Atlas,David Mitchell,2004,37,6,1,0,0,0,0,0.0,90.77,1.0
+"It's so damn hard to bloom... to change. Even when you want to change, want it more than anything in the world, it's hard. Desire to change isn't enough., ", ,Watchers,Dean Koontz,1987,155,29,6,1,0,0,0,-0.1953,103.93,0.8620689655172413
+"The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.", ,Watchers,Dean Koontz,1987,128,21,1,1,0,0,0,0.3612,50.16,0.8571428571428571
+"Although the constant shadow of certain death looms over every day, the pleasures and joys of life can be so fine and deeply affecting that the heart is nearly stilled by astonishment.",,Watchers,Dean Koontz,1987,184,32,1,0,0,0,0,0.8506,55.92,0.875
+But this animal’s unadulterated joy in being alive was like a spotlight that pierced Travis’s inner gloom and reminded him that life had a brighter side from which he had long ago turned away.,,Watchers,Dean Koontz,1987,192,34,1,0,0,0,0,0.8847,62.35,0.9117647058823529
+"He actually felt as if God had sent the retriever to intrigue him, to remind him that the world was full of surprises and that despair made no sense when one had no understanding of the purpose—and strange possibilities—of existence.",,Watchers,Dean Koontz,1987,233,40,1,0,0,0,0,-0.5423,39.34,0.825
+"His love was an architect that entirely remade the reality of the chapel, transforming it into a cathedral as grand as any in the world.",,Watchers,Dean Koontz,1987,136,25,1,0,0,0,0,0.802,54.56,0.88
+"I believe that we carry within us a divinely inspired moral imperative to love. We have the ability to love, the need to be loved, and the willingness to put our own lives on the line to protect those we love.",,Watchers,Dean Koontz,1987,209,41,2,0,0,0,0,0.9843,76.05,0.7804878048780488
+"The dog chose more letters, waited for them to study the words, then looked solemnly at each of them to be sure they understood what he meant: I WOULD DIE OF LONELY.",,Watchers,Dean Koontz,1987,165,32,1,0,0,0,0,-0.6971,72.84,0.9375
+The pleasures and joys of life can be so fine and deeply affecting that the heart is nearly stilled by astonishment.,,Watchers,Dean Koontz,1987,116,21,1,0,0,0,0,0.913,75.54,0.9523809523809523
+"We are what we are, he thought, and maybe the only time we can change what we are is when life throws us such a surprise that it’s like hitting a plate-glass window with a baseball bat, shattering the grip of the past.",,Watchers,Dean Koontz,1987,218,43,1,0,0,0,0,0.5574,61.67,0.813953488372093
+"You've taught me that we're all needed, even those who sometimes think we're worthless. If we love and allow ourselves to be loved a person who loves is the most precious thing in the world, worth all the fortunes that ever were.",,Watchers,Dean Koontz,1987,229,42,2,0,0,0,0,0.9493,84.0,0.8571428571428571
+"You can con God and get away with it, if you do so with charm and wit. If you live your life with imagination and verve, God will play along just to see what outrageously entertaining thing you'll do next.",Granny,Odd Thomas,Dean Koontz,2003,205,40,2,6,1,0,0,0.8511,85.02,0.825
+Evil was coming. I wondered whose face it would be wearing.,,Odd Thomas,Dean Koontz,2003,59,11,2,0,0,0,0,-0.6597,91.27,1.0
+"Fate isn’t one straight road…there are forks in it, many different routes to different ends. We have the free will to choose the path.",,Odd Thomas,Dean Koontz,2003,134,24,2,0,0,0,0,0.6369,84.68,0.875
+Most people tend to think the best of those who are blessed with beauty; we have difficulty imagining that physical perfection can conceal twisted emotions or a damaged mind.,,Odd Thomas,Dean Koontz,2003,174,29,1,0,0,0,0,0.9062,50.5,1.0
+Perseverance is impossible if we don't permit ourselves to hope.,,Odd Thomas,Dean Koontz,2003,64,10,1,0,0,0,0,0.4404,44.41,1.0
+"Some lives, conducted with grace, are beautiful arcs bridging this world to eternity.",,Odd Thomas,Dean Koontz,2003,85,13,1,0,0,0,0,0.7717,66.74,1.0
+The joys of life can be found anywhere. Far places only offer exotic ways to suffer.,,Odd Thomas,Dean Koontz,2003,84,16,2,0,0,0,0,-0.0772,80.28,1.0
+"We are not strangers to ourselves, we only try to be.",,Odd Thomas,Dean Koontz,2003,53,11,1,0,0,0,0,0.0,94.15,0.9090909090909091
+"We may lack riches, but the greatest fortune is what lies in our hearts.",,Odd Thomas,Dean Koontz,2003,72,14,1,0,0,0,0,0.891,91.11,1.0
+"Everyone wants a quick fix. We're tired of being afraid, tired of being overwhelmed. We want the old days back but we don't even remember them, and we want to push into the future at top speed.",,Shutter Island,Dennis Lehane,2003,193,37,3,0,0,0,0,0.0,92.83,0.8378378378378378
+"He wanted to ask her what sound a heart made when just the sight of someone filled you the way food, blood, and air never could, when you felt as if you'd been born for only one moment and this, for whatever reason, was it.",,Shutter Island,Dennis Lehane,2003,223,45,1,0,0,0,0,0.6369,59.64,0.8888888888888888
+How much violence do you think a man can carry before it breaks him?,,Shutter Island,Dennis Lehane,2003,68,14,1,0,0,0,1,-0.6249,82.65,1.0
+"I loved this woman the way you love ... well, nothing. It’s its own unique gift.",,Shutter Island,Dennis Lehane,2003,80,16,5,0,0,0,0,0.9201,106.16,1.0
+I've built something valuable here. But valuable things also have a way of being misunderstood in their own time.,,Shutter Island,Dennis Lehane,2003,113,19,2,0,0,0,0,0.4767,78.75,0.9473684210526315
+"If you are deemed insane, then all actions that would otherwise prove you are not do, in actuality, fall into the framework of an insane person's actions. It's a no-win situation.",,Shutter Island,Dennis Lehane,2003,179,31,2,0,0,0,0,-0.6597,64.2,0.9354838709677419
+Maybe there are some things we were put on this earth not to know.,,Shutter Island,Dennis Lehane,2003,66,14,1,0,0,0,0,0.0,108.03,1.0
+The brain controls pain. It controls fear. Sleep. Empathy. Hunger. Everything we associate with the heart or the soul or the nervous system is actually controlled by the brain. Everything.,,Shutter Island,Dennis Lehane,2003,188,30,7,0,0,0,0,-0.6597,69.79,0.8333333333333334
+"Waking, after all, was an almost natal state. You surfaced without history, then spent the blinks and yawns reassembling your past.",,Shutter Island,Dennis Lehane,2003,131,21,2,0,0,0,0,0.0,69.28,1.0
+"Which would be worse, to live as a monster or to die as a good man?",,Shutter Island,Dennis Lehane,2003,67,16,1,0,0,0,1,-0.6249,97.54,0.8125
 You crazy lady with tongs!,Calcifer,Howl's Moving Castle,Diana Wynne Jones,1986,26,5,1,8,1,1,0,-0.4003,100.24,1.0
 "I'm sorry. I'm done running away, now that I have something I want to protect. It's you.",Howl,Howl's Moving Castle,Diana Wynne Jones,1986,88,17,3,4,1,0,0,0.3818,88.06,0.8823529411764706
 You just never stop to think!,Howl,Howl's Moving Castle,Diana Wynne Jones,1986,29,6,1,4,1,1,0,0.2914,99.23,1.0
@@ -576,6 +664,23 @@ Don't write about Man; write about a man.,,Charlotte's Web,E.B. White,1952,41,8,
 Life is always a rich and steady time when you are waiting for something to happen or to hatch.,,Charlotte's Web,E.B. White,1952,95,19,1,0,0,0,0,0.5574,86.03,0.9473684210526315
 "‘Why did you do all this for me?’ he asked. ‘I don’t deserve it. I’ve never done anything for you.’ ‘You have been my friend,’ replied Charlotte. ‘That in itself is a tremendous thing.’",,Charlotte’s Web,E.B. White,1952,185,34,6,0,0,0,1,0.0,98.41,0.9705882352941176
 "Whatever the present moment contains, accept it as if you had chosen it. Always work with it, not against it. Make it your friend and ally, not your enemy.",,The Power of Now,Eckhart Tolle,1997,155,29,3,0,0,0,0,0.8248,87.01,0.8620689655172413
+"I admit the deed! Tear up the planks! Here, here! It is the beating of his hideous heart!",,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,1843,89,18,4,0,0,4,0,0.6331,107.69,0.8888888888888888
+"I smiled,—for what had I to fear?",,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,1843,33,7,1,0,0,0,1,-0.4939,106.67,0.8571428571428571
+"It is impossible to say how first the idea entered my brain; but once conceived, it haunted me day and night.",,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,1843,109,21,1,0,0,0,0,-0.631,75.54,1.0
+The disease had sharpened my senses – not destroyed – not dulled them. Above all was the sense of hearing acute.,,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,1843,112,21,2,0,0,0,0,0.5773,87.21,0.9047619047619048
+They who dream by day are cognizant of many things which escape those who dream only by night.,,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,1843,94,18,1,0,0,0,0,0.5719,87.05,0.8333333333333334
+"Ah, distinctly I remember it was in the bleak December And each separate dying ember wrought its ghost upon the floor.",,The Complete Stories and Poems,Edgar Allan Poe,1849,118,21,1,0,0,0,0,-0.3182,58.62,0.9523809523809523
+"For passion must, with youth, expire.",,The Complete Stories and Poems,Edgar Allan Poe,1849,37,6,1,0,0,0,0,0.4588,90.77,1.0
+"I believed, and still do believe, that truth, is frequently of its own essence, superficial.",,The Complete Stories and Poems,Edgar Allan Poe,1849,92,15,1,0,0,0,0,0.3182,64.71,1.0
+"In a vision, or in none, is it therefore the less gone?",,The Complete Stories and Poems,Edgar Allan Poe,1849,55,12,1,0,0,0,1,0.25,93.14,1.0
+Is all that we see or seem But a dream within a dream?,,The Complete Stories and Poems,Edgar Allan Poe,1849,54,13,1,0,0,0,1,0.6124,100.58,0.9230769230769231
+It is a happiness to wonder; -- it is a happiness to dream.,,The Complete Stories and Poems,Edgar Allan Poe,1849,59,13,1,0,0,0,0,0.8481,76.22,0.6923076923076923
+"It was many and many a year ago, In a kingdom by the sea, That a maiden lived whom you may know By the name of ANNABEL LEE",,The Complete Stories and Poems,Edgar Allan Poe,1849,122,28,0,0,0,0,0,0.0,85.36,0.8571428571428571
+LO! Death has reared himself a throne In a strange city lying alone.,,The Complete Stories and Poems,Edgar Allan Poe,1849,68,13,2,0,0,1,0,-0.8858,92.12,0.9230769230769231
+"Once upon a midnight dreary, while I pondered, weak and weary,",,The Complete Stories and Poems,Edgar Allan Poe,1849,62,11,0,0,0,0,0,-0.7506,77.23,1.0
+To die laughing must be the most glorious of all glorious deaths!,,The Complete Stories and Poems,Edgar Allan Poe,1849,65,12,1,0,0,1,0,0.8513,76.22,0.9166666666666666
+We have a task before us which must be speedily performed. We know that it will be ruinous to make delay.,,The Complete Stories and Poems,Edgar Allan Poe,1849,105,21,2,0,0,0,0,-0.7184,86.2,0.9047619047619048
+"Years of love have been forgot, In the hatred of a minute.",,The Complete Stories and Poems,Edgar Allan Poe,1849,58,12,1,0,0,0,0,0.0,93.14,0.9166666666666666
 Each time you happen to me all over again.,,The Age of Innocence,Edith Wharton,1920,42,9,1,0,0,0,0,0.0,104.64,1.0
 Human suffering anywhere concerns men and women everywhere.,Elie,Night,Elie Wiesel,1956,59,8,1,4,1,0,0,-0.4767,29.52,1.0
 To forget the dead would be akin to killing them a second time.,Elie,Night,Elie Wiesel,1956,63,13,1,4,1,0,0,-0.891,92.12,1.0
@@ -781,6 +886,19 @@ The only regret I will have in dying is if it is not for love.,,Love in the Time
 There is no greater glory than to die for love.,,Love in the Time of Cholera,Gabriel García Márquez,1985,47,10,1,0,0,0,0,-0.594,103.63,1.0
 "They both loved each other best, when both were most conscious of their incredible victories over adversity. They were on the other shore.",,Love in the Time of Cholera,Gabriel García Márquez,1985,138,23,2,0,0,0,0,0.7216,68.26,0.8260869565217391
 "You are either born knowing how, or you never know.",,Love in the Time of Cholera,Gabriel García Márquez,1985,51,10,1,0,0,0,0,0.0,86.71,1.0
+"Are people so unhappy when they love? Yes, Christine, when they love and are not sure of being loved.",,The Phantom of the Opera,Gaston Leroux,1910,101,19,2,0,0,0,1,0.8865,87.21,0.8947368421052632
+Does he love you so much? He would commit murder for me.,,The Phantom of the Opera,Gaston Leroux,1910,56,12,2,0,0,0,1,0.1779,99.23,1.0
+Erik is not truly dead. He lives on within the souls of those who choose to listen to the music of the night.,,The Phantom of the Opera,Gaston Leroux,1910,109,23,2,0,0,0,0,0.2584,93.64,0.8260869565217391
+"He fills me with horror and I do not hate him. How can I hate him, Raoul? He loves me! He lays at my feet an immense and tragic love.",,The Phantom of the Opera,Gaston Leroux,1910,133,30,4,0,0,1,1,0.1999,106.16,0.8333333333333334
+"He had a heart that could have held the entire empire of the world; and, in the end, he had to content himself with a cellar.",,The Phantom of the Opera,Gaston Leroux,1910,125,26,1,0,0,0,0,0.6369,78.93,0.8461538461538461
+"Holy angel, in Heaven blessed, My spirit longs with thee to rest",,The Phantom of the Opera,Gaston Leroux,1910,64,12,0,0,0,0,0,0.836,84.68,1.0
+"I tore off my mask so as not to lose one of her tears...and she did not run away!...and she did not die!... She remained alive, weeping over me, weeping with me. We cried together! I have tasted all the happiness the world can offer.",,The Phantom of the Opera,Gaston Leroux,1910,233,45,14,0,0,3,0,0.6224,97.7,0.8444444444444444
+"If I am the phantom, it is because man's hatred has made me so. If I am to be saved it is because your love redeems me.",,The Phantom of the Opera,Gaston Leroux,1910,119,27,2,0,0,0,0,0.4215,91.61,0.7777777777777778
+"None will ever be a true Parisian who has not learned to wear a mask of gaiety over his sorrows and one of sadness, boredom, or indifference over his inward joy.",,The Phantom of the Opera,Gaston Leroux,1910,161,31,1,0,0,0,0,-0.1027,65.39,0.8709677419354839
+"Once again there was the sound of the Phantom's laughter, but it had an unmistakable ring of tragedy.",,The Phantom of the Opera,Gaston Leroux,1910,101,18,1,0,0,0,0,-0.7184,78.59,0.8888888888888888
+Our lives are one masked ball.,,The Phantom of the Opera,Gaston Leroux,1910,30,6,1,0,0,0,0,0.0,116.15,1.0
+"Poor, unhappy Erik! Shall we pity him? Shall we curse him? He asked only to be 'some one,' like everybody else. But he was too ugly!",,The Phantom of the Opera,Gaston Leroux,1910,132,26,5,0,0,2,2,-0.8871,100.04,0.8846153846153846
+"They played at hearts as other children might play at ball; only, as it was really their two hearts that they flung to and fro.",,The Phantom of the Opera,Gaston Leroux,1910,127,25,1,0,0,0,0,0.9282,79.94,0.88
 "Man is the only real enemy we have. Remove Man from the scene, and the root cause of hunger and overwork is abolished forever.",Old Major,Animal Farm,George Orwell,1945,126,24,2,9,2,0,0,-0.6705,76.22,0.7916666666666666
 "No sentimentality, comrade! War is war. The only good human being is a dead one.",Snowball,Animal Farm,George Orwell,1945,80,15,3,8,1,1,0,-0.9077,66.4,0.9333333333333333
 Bravery is not enough. Loyalty and obedience are more important.,Squealer,Animal Farm,George Orwell,1945,64,10,2,8,1,0,0,0.3491,57.94,1.0
@@ -791,6 +909,12 @@ Bravery is not enough. Loyalty and obedience are more important.,Squealer,Animal
 Who controls the past controls the future. Who controls the present controls the past.,,Nineteen Eighty-Four,George Orwell,1949,86,14,2,0,0,0,0,0.0,81.29,0.5
 When you play the game of thrones you win or you die.,,A Game of Thrones,George R. R. Martin,1996,53,12,1,0,0,0,0,0.3182,110.06,0.8333333333333334
 "Some old wounds never truly heal, and bleed again at the slightest word.",,A Game of Thrones,George R.R. Martin,1996,72,13,1,0,0,0,0,-0.3412,92.12,1.0
+"Don't be discouraged - every relationship you have is a failure, until you find the right one.",,Dark Places,Gillian Flynn,2009,94,17,1,0,0,0,0,-0.2598,63.7,0.9411764705882353
+"Everyone who keeps a secret, itches to tell it.",,Dark Places,Gillian Flynn,2009,47,9,1,0,0,0,0,0.0,79.26,1.0
+The truly frightening flaw in humanity is our capacity for cruelty - we all have it.,,Dark Places,Gillian Flynn,2009,84,16,1,0,0,0,0,-0.6369,47.79,1.0
+"Whenever I see news stories about children who were killed by their parents, I think: But how could it be? They cared enough to give this kid a name.",,Dark Places,Gillian Flynn,2009,149,29,2,0,0,0,1,0.2382,90.6,0.9655172413793104
+Worries find you easily enough without inviting them.,,Dark Places,Gillian Flynn,2009,53,8,1,0,0,0,0,-0.3318,63.36,1.0
+"You think you know the answer, you’re going to find peace? Like knowing is somehow going to fix you?",,Dark Places,Gillian Flynn,2009,100,19,2,0,0,0,2,0.7476,87.21,0.8947368421052632
 A lot of people lacked that gift: knowing when to fuck off.,,Gone Girl,Gillian Flynn,2012,59,12,1,0,0,0,0,-0.1531,93.14,1.0
 "Because isn’t that the point of every relationship: to be known by someone else, to be understood? He gets me. She gets me. Isn’t that the simple magic phrase?",,Gone Girl,Gillian Flynn,2012,159,29,4,0,0,0,2,0.0,80.99,0.7931034482758621
 "Because you can't be as in love as we were and not have it invade your bone marrow. Our kind of love can go into remission, but it's always waiting to return. Like the world's sweetest cancer.",,Gone Girl,Gillian Flynn,2012,192,37,3,0,0,0,0,0.0525,84.37,0.9459459459459459
@@ -846,6 +970,13 @@ Things that would have made fame of a less clever man seemed tricks in his hands
 We are always getting away from the present moment.,,The Time Machine,H.G. Wells,1895,51,9,1,0,0,0,0,0.0,87.72,1.0
 We are kept keen on the grindstone of pain and necessity.,,The Time Machine,H.G. Wells,1895,57,11,1,0,0,0,0,-0.2023,77.23,1.0
 "We should strive to welcome change and challenges, because they are what help us grow.",,The Time Machine,H.G. Wells,1895,86,15,1,0,0,0,0,0.7184,90.09,1.0
+"By the toll of a billion deaths man has bought his birthright of the earth, and it is his against all comers; it would still be his were the Martians ten times as mighty as they are.",,The War of the Worlds,H.G. Wells,1897,182,37,1,0,0,0,0,0.0,76.22,0.8108108108108109
+Few people realise the immensity of vacancy in which the dust of the material universe swims.,,The War of the Worlds,H.G. Wells,1897,93,16,1,0,0,0,0,0.0,46.78,0.8125
+"No one gave a thought to the older worlds of space as sources of human danger... Yet across the gulf of space, minds that are to our minds as ours are to those of the beasts that perish, intellects vast and cool and unsympathetic, regarded this earth with envious eyes, and slowly and surely drew their plans against us.",,The War of the Worlds,H.G. Wells,1897,320,59,4,0,0,0,0,0.0772,66.91,0.7627118644067796
+No one would have believed in the last years of the nineteenth century that this world was being watched keenly and closely by intelligences greater than man's and yet as mortal as his own.,,The War of the Worlds,H.G. Wells,1897,189,34,1,0,0,0,0,0.5994,62.35,0.9117647058823529
+"With infinite complacency men went to and fro over this globe about their little affairs, serene in their assurance of their empire over matter.",,The War of the Worlds,H.G. Wells,1897,144,24,1,0,0,0,0,0.6395,55.58,0.875
+"Yet across the gulf of space, minds that are to our minds as ours are to those of the beasts that perish, intellects vast and cool and unsympathetic, regarded this earth with envious eyes, and slowly and surely drew their plans against us.",,The War of the Worlds,H.G. Wells,1897,239,43,1,0,0,0,0,0.7096,53.21,0.7906976744186046
+"Yet so vain is man, and so blinded by his vanity",,The War of the Worlds,H.G. Wells,1897,48,11,0,0,0,0,0,-0.6115,85.69,0.9090909090909091
 "It had always seemed to him a very plush kind of problem, a privilege, really, to consider whether life was meaningful or not.",,A Little Life,Hanya Yanagihara,2015,126,23,1,0,0,0,0,0.204,65.05,0.9130434782608695
 "Wasn’t friendship its own miracle, the finding of another person who made the entire lonely world seem somehow less lonely?",,A Little Life,Hanya Yanagihara,2015,123,20,1,0,0,0,1,0.4576,51.18,0.95
 "People generally see what they look for, and hear what they listen for.",Atticus,To Kill a Mockingbird,Harper Lee,1960,71,13,1,7,1,0,0,0.0,75.2,0.8461538461538461
@@ -1332,6 +1463,29 @@ What do you do when it rains? I get wet.,,Catch-22,Joseph Heller,1961,40,10,2,0,
 "What is a country? A country is a piece of land surrounded on all sides by boundaries, usually unnatural.",,Catch-22,Joseph Heller,1961,105,19,2,0,0,0,1,0.0,70.29,0.8947368421052632
 "When I look up, I see people cashing in on every decent impulse and every human tragedy.",,Catch-22,Joseph Heller,1961,88,17,1,0,0,0,0,-0.6597,71.14,0.8823529411764706
 "You know, that might be the answer – to act boastfully about something we ought to be ashamed of.",,Catch-22,Joseph Heller,1961,97,19,1,0,0,0,0,-0.4767,87.05,0.8947368421052632
+"I don't think we did go blind, I think we are blind, Blind but seeing, Blind people who can see, but do not see.",,Blindness,José Saramago,1995,112,24,1,0,0,0,0,-0.7964,89.42,0.75
+"If we cannot live entirely like human beings, at least let us do everything in our power not to live entirely like animals.",,Blindness,José Saramago,1995,123,23,1,0,0,0,0,0.1195,56.59,0.8695652173913043
+"If, before every action, we were to begin by weighing up the consequences, thinking about them in earnest, first the immediate consequences, then the probable, then the possible, then the imaginable ones, we should never move beyond the point where our first thought brought us to a halt.",,Blindness,José Saramago,1995,288,48,1,0,0,0,0,0.5106,39.68,0.7708333333333334
+"Inside us there is something that has no name, that something is what we are.",,Blindness,José Saramago,1995,77,15,1,0,0,0,0,-0.296,90.09,0.8
+"Just as the habit does not make the monk, the sceptre does not make the king.",,Blindness,José Saramago,1995,77,16,1,0,0,0,0,0.0,97.54,0.625
+Perhaps only in a world of the blind will things be what they truly are.,,Blindness,José Saramago,1995,72,15,1,0,0,0,0,0.0516,90.09,1.0
+"When all is said and done, what is clear is that all lives end before their time.",,Blindness,José Saramago,1995,81,17,1,0,0,0,0,0.3818,96.52,0.8235294117647058
+"You never know beforehand what people are capable of, you have to wait, give it time, it's time that rules.",,Blindness,José Saramago,1995,107,20,1,0,0,0,0,0.3818,76.56,1.0
+"The lie had worked so far, but Lacey felt its softness, like a floor of rotten boards beneath her feet.",Lacey,The Passage,Justin Cronin,2010,103,20,1,5,1,0,0,-0.296,85.02,1.0
+"Grief was a place, Sara understood, where a person went alone. It was like a room without doors.",Sara,The Passage,Justin Cronin,2010,96,18,2,4,1,0,0,-0.4019,96.18,0.8333333333333334
+"It was what you did; you started to tell a story about who you were, and soon enough the lies were all you had.",Wolgast,The Passage,Justin Cronin,2010,111,24,1,7,1,0,0,-0.4215,89.42,0.875
+A baby was a piece of time; it was a promise you made that the world made back to you.,,The Passage,Justin Cronin,2010,86,20,1,0,0,0,0,0.3182,93.48,0.85
+"A thousand recollected lives were passing through her, a thousand stories - of love and work, of duty and joy and grief.",,The Passage,Justin Cronin,2010,120,22,1,0,0,0,0,0.7003,67.08,0.8181818181818182
+"It happened fast. Thirty-two minutes for one world to die, another to be born.",,The Passage,Justin Cronin,2010,78,14,2,0,0,0,0,-0.5994,81.29,0.9285714285714286
+It's all well and good to save the human race. But you might want to pay a little more attention to what's right in front of you.,,The Passage,Justin Cronin,2010,129,27,2,0,0,0,0,0.5346,100.07,0.9259259259259259
+It's different being afraid when there's the hope it will amount to something.,,The Passage,Justin Cronin,2010,78,13,1,0,0,0,0,0.4404,83.66,1.0
+Mankind had built a world that would take hundred years to die. A century for the last lights to go out.,,The Passage,Justin Cronin,2010,104,21,2,0,0,0,0,-0.5994,103.12,0.9523809523809523
+"She taught herself to walk in the light, though it was not easy.",,The Passage,Justin Cronin,2010,64,13,1,0,0,0,0,-0.3412,100.58,1.0
+So perhaps the greatest worry of all was that one day you would realize that all the worries of your life amounted to one thing.,,The Passage,Justin Cronin,2010,128,25,1,0,0,0,0,-0.0609,71.48,0.8
+"Somewhere along the way, if we're lucky, we may find someone to help lighten the load.",,The Passage,Justin Cronin,2010,86,16,1,0,0,0,0,0.6705,89.08,0.9375
+"The sadness you feel is not your own. It's his sadness you feel in your heart, Amy, for missing you.",,The Passage,Justin Cronin,2010,100,20,2,0,0,0,0,-0.4215,95.17,0.8
+The world was a world of dreaming souls who could not die.,,The Passage,Justin Cronin,2010,58,12,1,0,0,0,0,0.4847,101.6,0.9166666666666666
+"What strange places our lives can carry us to, what dark passages.",,The Passage,Justin Cronin,2010,66,12,1,0,0,0,0,-0.2023,93.14,1.0
 "The voice of the sea is seductive, never ceasing, whispering, clamoring, murmuring, inviting the soul to wander in abysses of solitude.",,The Awakening,Kate Chopin,1899,135,21,1,0,0,0,0,0.3182,50.16,0.9047619047619048
 You is kind. You is smart. You is important.,Aibileen,The Help,Kathryn Stockett,2009,44,9,3,8,1,0,0,0.7845,102.27,0.5555555555555556
 "Memories, even your most precious ones, fade surprisingly quickly. But I don’t go along with that. The memories I value most, I don’t ever see them fading.",,Never Let Me Go,Kazuo Ishiguro,2005,155,27,3,0,0,0,0,0.7349,79.26,0.8888888888888888
@@ -1401,6 +1555,13 @@ True friends are always together in spirit.,Anne Shirley,Anne of Green Gables,L.
 "When I left Queen's my future seemed to stretch out before me like a straight road. Now there is a bend in it, but I'm going to believe that the best does.",Anne Shirley,Anne of Green Gables,L.M. Montgomery,1908,155,32,2,12,2,0,0,0.8402,97.54,0.9375
 Kindred spirits are not so scarce as I used to think. It’s splendid to find out there are so many of them in the world.,,Anne of Green Gables,L.M. Montgomery,1908,119,25,2,0,0,0,0,0.5859,101.09,0.88
 Well-behaved women seldom make history.,,Well-Behaved Women Seldom Make History,Laurel Thatcher Ulrich,1989,39,5,1,0,0,0,0,0.0,15.64,1.0
+"Graves are for the living, not the dead. It gives us something to concentrate on.",,Guilty Pleasures,Laurell K. Hamilton,1993,81,15,2,0,0,0,0,0.3054,89.24,0.9333333333333333
+It is a very natural human trait to destroy that which frightens us.,,Guilty Pleasures,Laurell K. Hamilton,1993,68,13,1,0,0,0,0,-0.5279,75.2,1.0
+Most hatred is based on fear one way or another.,,Guilty Pleasures,Laurell K. Hamilton,1993,48,10,1,0,0,0,0,-0.8268,86.71,1.0
+Nothing is more appealing than a handsome man who is also uncertain of himself.,,Guilty Pleasures,Laurell K. Hamilton,1993,79,14,1,0,0,0,0,0.25,57.27,0.9285714285714286
+"Pity is an emotion that can get you killed. The only thing more dangerous is blind hate, and maybe love.",,Guilty Pleasures,Laurell K. Hamilton,1993,104,20,2,0,0,0,0,-0.911,95.17,0.95
+"Violence has to become a part of your thinking. It makes you cautious, suspicious as hell, and lengthens your life expectancy.",,Guilty Pleasures,Laurell K. Hamilton,1993,126,21,2,0,0,0,0,-0.9118,69.28,0.9523809523809523
+"You awful hard to kill, Anita. There's a first time, Luther, and that's all it takes.",,Guilty Pleasures,Laurell K. Hamilton,1993,85,16,2,0,0,0,0,-0.8442,105.66,1.0
 It was like being born again when you took me away.,Indigo,Dragon War,Laurence Yep,1992,51,11,1,6,1,0,0,0.3612,102.61,1.0
 "Alas master, it's the company I keep. But they're such brave and good and true companions that I forgive them their flaws.",Monkey,Dragon War,Laurence Yep,1992,122,22,2,6,1,0,0,0.9354,85.69,0.9090909090909091
 "Just because two goals are good ones doesn't mean that they're automatically compatible. It would be convenient if they were, but often they're not.",Monkey,Dragon War,Laurence Yep,1992,148,24,2,6,1,0,0,0.2382,67.76,0.9583333333333334
@@ -1447,7 +1608,6 @@ It's a poor sort of memory that only works backwards.,Queen,"Through the Looking
 "Beware the Jabberwock, my son, the jaws that bite and claws that scratch...",,"Through the Looking-Glass, and What Alice Found There",Lewis Carroll,1871,75,13,3,0,0,0,0,0.0,92.12,0.8461538461538461
 He chortled in his joy.,,"Through the Looking-Glass, and What Alice Found There",Lewis Carroll,1871,23,5,1,0,0,0,0,0.5859,100.24,1.0
 "Life, what is it but a dream.",,"Through the Looking-Glass, and What Alice Found There",Lewis Carroll,1871,29,7,1,0,0,0,0,0.3612,115.13,1.0
-The chief difficulty Alice found at first was in managing her flamingo.,Alice,Alice's Adventures in Wonderland,Lewis Carroll,,71,12,1,5,1,0,0,-0.34,59.3,1.0
 A son is a son until he takes him a wife; a daughter is a daughter for all of her life.,,The Husband's Secret,Liane Moriarty,2013,87,21,1,0,0,0,0,0.0,92.46,0.7142857142857143
 "All these years there had been a Tupperware container of bad language in her head, and now she opened it and all those crisp, crunchy words were fresh and lovely.",,The Husband's Secret,Liane Moriarty,2013,162,30,1,0,0,0,0,0.3818,74.87,0.9333333333333333
 Falling in love was easy. It was holding on that was tricky.,,The Husband's Secret,Liane Moriarty,2013,60,12,2,0,0,0,0,0.7096,99.23,0.8333333333333334
@@ -1501,6 +1661,12 @@ The drying up a single tear has more Of honest fame than shedding seas of gore.,
 "Be worthy love, and love will come.",,Little Women,Louisa May Alcott,1868,35,7,1,0,0,0,0,0.9062,106.67,1.0
 "I am not afraid of storms, for I am learning how to sail my ship.",,Little Women,Louisa May Alcott,1868,65,15,1,0,0,0,0,0.0,98.55,0.8666666666666667
 "Because when you are imagining, you might as well imagine something worth while.",,Anne of Green Gables,Lucy Maud Montgomery,1908,80,13,1,0,0,0,0,0.4588,75.2,0.9230769230769231
+"When your dreams come true, your true has moved.",Melanie,The Girl With All the Gifts,M.R. Carey,2014,48,9,1,7,1,0,0,0.8074,113.1,0.8888888888888888
+"It's equinox, with the world balanced between winter and summer, life and death, like a spinning ball balanced on the tip of someone's finger.",,The Girl With All the Gifts,M.R. Carey,2014,142,24,1,0,0,0,0,-0.34,72.5,0.875
+"She’s lived in Plato’s cave, staring at the shadows on the wall. Now she’s been turned around to face the fire.",,The Girl With All the Gifts,M.R. Carey,2014,111,21,2,0,0,0,0,-0.34,103.12,0.9047619047619048
+Some things become true simply by being spoken.,,The Girl With All the Gifts,M.R. Carey,2014,47,8,1,0,0,0,0,0.4215,71.82,1.0
+The horror of the unknown is more frightening than any horror you can understand.,,The Girl With All the Gifts,M.R. Carey,2014,81,14,1,0,0,0,0,-0.8977,65.73,0.9285714285714286
+"The truth is the truth, the only prize worth having. If you deny it, you’re only showing that you’re unworthy of it.",,The Girl With All the Gifts,M.R. Carey,2014,116,22,2,0,0,0,0,0.5267,85.69,0.8636363636363636
 "Life, with its rules, its obligations, and its freedoms, is like a sonnet: You’re given the form, but you have to write the sonnet yourself.",,A Wrinkle in Time,Madeleine L’Engle,1962,140,25,1,0,0,0,0,0.3291,71.48,0.88
 They were all growing up and into each other like trees striving together for the sun.,,The Raven King,Maggie Stiefvater,2011,86,16,1,0,0,0,0,0.4939,72.16,1.0
 "There is more than one kind of freedom, freedom to and freedom from. In the days of anarchy, it was freedom to.",Aunt Lydia,The Handmaid's Tale,Margaret Atwood,1985,111,22,2,10,2,0,0,0.9552,85.69,0.8636363636363636
@@ -1639,22 +1805,66 @@ When the heart speaks the mind finds it indecent to object.,,The Unbearable Ligh
 All endings are also beginnings. We just don’t know it at the time.,,The Five People You Meet In Heaven,Mitch Albom,2003,67,13,2,0,0,0,0,0.0,90.26,1.0
 Never bite the hand that feeds you.,Sage Duban,Arabian Nights and Days,Naguib Mahfouz,1982,35,7,1,10,2,0,0,-0.3875,106.67,1.0
 "We dream in our waking moments, and walk in our sleep.",,The Scarlet Letter,Nathaniel Hawthorne,1850,54,11,1,0,0,0,0,0.25,94.15,0.8181818181818182
+I am hope.,Morpheus,Preludes & Nocturnes,Neil Gaiman,1989,10,3,1,8,1,0,0,0.4404,119.19,1.0
+"As I wouldn't wear a costume, I couldn't imagine him wanting to wear one.",,Preludes & Nocturnes,Neil Gaiman,1989,73,14,1,0,0,0,0,0.0,74.19,0.8571428571428571
+"I watched him even then as he fell, his face undefeated, his eyes still proud.",,Preludes & Nocturnes,Neil Gaiman,1989,78,15,1,0,0,0,0,0.4767,90.09,0.9333333333333333
+It is as natural to die as it is to be born.,,Preludes & Nocturnes,Neil Gaiman,1989,44,12,1,0,0,0,0,-0.34,93.14,0.75
+Some things are too big to be seen; some emotions too huge to be felt.,,Preludes & Nocturnes,Neil Gaiman,1989,70,15,1,0,0,0,0,0.3182,98.55,0.8
+What power would hell have if those imprisoned here would not be able to dream of heaven?,,Preludes & Nocturnes,Neil Gaiman,1989,89,17,1,0,0,0,1,-0.5106,88.06,0.9411764705882353
+You can know anything. It's all there. You just have to find it.,,Preludes & Nocturnes,Neil Gaiman,1989,64,13,3,0,0,0,0,0.0,109.41,0.9230769230769231
+You get what anybody gets - you get a lifetime.,,Preludes & Nocturnes,Neil Gaiman,1989,47,10,1,0,0,0,0,0.0,96.18,0.9
 Gods die. And when they truly die they are unmourned and unremembered.,,American Gods,Neil Gaiman,2001,70,12,2,0,0,0,0,-0.7096,76.22,0.9166666666666666
 "Ideas are more difficult to kill than people, but they can be killed, in the end.",,American Gods,Neil Gaiman,2001,81,16,1,0,0,0,0,-0.9028,89.08,1.0
 "In an emergency, but only in an emergency, you hurt people who need to be hurt.",,American Gods,Neil Gaiman,2001,79,16,1,0,0,0,0,-0.9371,72.16,0.875
+"Challenge her. There's no guarantee she'll play fair, but her kind of thing loves games and challenges.",Cat,Coraline,Neil Gaiman,2002,103,17,2,3,1,0,0,0.8239,88.06,1.0
+The cat wrinkled its nose and managed to look unimpressed.,Cat,Coraline,Neil Gaiman,2002,58,10,1,3,1,0,0,-0.34,86.71,1.0
+"Because when you're scared but you still do it anyway, that's brave.",,Coraline,Neil Gaiman,2002,68,12,1,0,0,0,0,0.5647,93.14,1.0
+But how can you walk away from something and still come back to it?,,Coraline,Neil Gaiman,2002,67,14,1,0,0,0,1,0.0,99.57,1.0
+"Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.",,Coraline,Neil Gaiman,2002,129,24,1,0,0,0,0,-0.3941,72.5,0.75
+Mirrors are never to be trusted.,,Coraline,Neil Gaiman,2002,32,6,1,0,0,0,0,-0.3724,73.85,1.0
+The world seemed to shimmer a little at the edges.,,Coraline,Neil Gaiman,2002,50,10,1,0,0,0,0,0.0,95.17,1.0
+We are small but we are many. We are many we are small. We were here before you rose. We will be here when you fall.,,Coraline,Neil Gaiman,2002,116,26,4,0,0,0,0,0.0,115.64,0.6538461538461539
+There are always people who find their lives have become unsupportable.,Bod,The Graveyard Book,Neil Gaiman,2008,71,11,1,3,1,0,0,0.0,68.77,1.0
+"Be hole, be dust, be dream, be wind. Be night, be dark, be wish, be mind. Now slip, now slide, now move unseen.",,The Graveyard Book,Neil Gaiman,2008,111,23,3,0,0,0,0,0.5719,114.42,0.6956521739130435
+"Face your life, its pain, its pleasure, leave no path untaken.",,The Graveyard Book,Neil Gaiman,2008,62,11,1,0,0,0,0,-0.25,85.69,0.9090909090909091
+"If you dare nothing, then when the day is over, nothing is all you will have gained.",,The Graveyard Book,Neil Gaiman,2008,84,17,1,0,0,0,0,0.3818,96.52,0.8823529411764706
+"Potential. Once you're dead, it's gone. Over. You've made what you've made, dreamed your dream.",,The Graveyard Book,Neil Gaiman,2008,95,15,4,0,0,0,0,-0.5106,89.24,1.0
+"Things blossom in their time. They bud and bloom, blossom and fade.",,The Graveyard Book,Neil Gaiman,2008,67,12,2,0,0,0,0,0.0,99.23,0.8333333333333334
+"Truly, life is wasted on the living, Nobody Owens.",,The Graveyard Book,Neil Gaiman,2008,50,9,1,0,0,0,0,-0.0772,79.26,1.0
+We who make stories know that we tell lies for a living. But they are good lies that say true things.,,The Graveyard Book,Neil Gaiman,2008,101,21,2,0,0,0,0,0.4497,103.12,0.9047619047619048
+"Wherever you go, you take yourself with you.",,The Graveyard Book,Neil Gaiman,2008,44,8,1,0,0,0,0,0.0,80.28,0.875
+"You are the bravest person I know, and you are my friend.",,The Graveyard Book,Neil Gaiman,2008,57,12,1,0,0,0,0,0.7579,101.6,0.9166666666666666
+"You're always you, and that don't change, and you're always changing.",,The Graveyard Book,Neil Gaiman,2008,69,11,1,0,0,0,0,0.0,85.69,0.8181818181818182
 If you’re making mistakes it means you’re out there doing something.,,Make Good Art,Neil Gaiman,2013,68,11,1,0,0,0,0,-0.3612,77.23,0.9090909090909091
+"Oh, monsters are scared. That's why they're monsters.",Lettie,The Ocean at the End of the Lane,Neil Gaiman,2013,53,8,2,6,1,0,0,-0.4404,92.8,1.0
+"A story only matters, I suspect, to the extent that the people in the story change.",,The Ocean at the End of the Lane,Neil Gaiman,2013,83,16,1,0,0,0,0,-0.2732,72.16,0.8125
+"Adults follow paths. Children explore. Adults are content to walk the same way, hundreds of times...",,The Ocean at the End of the Lane,Neil Gaiman,2013,100,16,5,0,0,0,0,0.0,88.74,0.9375
+Books were safer than other people anyway.,,The Ocean at the End of the Lane,Neil Gaiman,2013,42,7,1,0,0,0,0,0.4215,81.29,1.0
+Childhood memories are sometimes covered and obscured beneath things that come later...but they are never lost for good.,,The Ocean at the End of the Lane,Neil Gaiman,2013,120,18,4,0,0,0,0,-0.1139,62.34,0.9444444444444444
+"Growing up, I took so many cues from books. They taught me most of what I knew...",,The Ocean at the End of the Lane,Neil Gaiman,2013,81,17,4,0,0,0,0,0.1779,105.15,0.9411764705882353
+"Grown-ups don't look like grown-ups on the inside either... Truth is, there aren't any grown-ups. Not one, in the whole wide world.",,The Ocean at the End of the Lane,Neil Gaiman,2013,131,22,5,0,0,0,0,0.049,106.37,0.9545454545454546
+How can you be happy in this world? You have a hole in your heart. You have a gateway inside...,,The Ocean at the End of the Lane,Neil Gaiman,2013,95,20,5,0,0,0,1,0.836,98.51,0.8
+"I do not miss childhood, but I miss the way I took pleasure in small things...",,The Ocean at the End of the Lane,Neil Gaiman,2013,78,16,3,0,0,0,0,0.6566,97.54,0.8125
+I like myths. They weren't adult stories or children stories. They were better than that.,,The Ocean at the End of the Lane,Neil Gaiman,2013,89,15,3,0,0,0,0,0.6597,91.78,0.9333333333333333
+I lived in books more than I lived anywhere else.,,The Ocean at the End of the Lane,Neil Gaiman,2013,49,10,1,0,0,0,0,0.0,103.63,0.8
+"I make art, sometimes I make true art, and it fills the empty places in my life.",,The Ocean at the End of the Lane,Neil Gaiman,2013,80,17,1,0,0,0,0,0.25,96.52,0.8235294117647058
+"I went away in my head, into a book. That was where I went whenever real life was too hard...",,The Ocean at the End of the Lane,Neil Gaiman,2013,93,20,4,0,0,0,0,-0.1027,95.17,0.85
+Nobody looks like what they really are on the inside. People are much more complicated than that.,,The Ocean at the End of the Lane,Neil Gaiman,2013,97,17,2,0,0,0,0,0.3612,71.31,0.9411764705882353
+Nothing's ever the same. Be it a second later or a hundred years...,,The Ocean at the End of the Lane,Neil Gaiman,2013,67,13,4,0,0,0,0,0.0,81.8,0.9230769230769231
+"You don't pass or fail at being a person, dear.",,The Ocean at the End of the Lane,Neil Gaiman,2013,47,10,1,0,0,0,0,0.6652,95.17,1.0
 Nothing that’s worthwhile is ever easy.,,Message in a Bottle,Nicholas Sparks,1998,39,6,1,0,0,0,0,0.2177,73.85,1.0
 "Once upon a time there was a boy who loved a girl, and her laughter was a question he wanted to spend his whole life answering.",,The History of Love,Nicole Krauss,2005,127,26,1,0,0,0,0,0.7964,78.93,0.8461538461538461
 So many things are possible just as long as you don’t know they’re impossible.,,The Phantom Tollbooth,Norton Juster,1961,78,14,1,0,0,0,0,0.0,74.19,0.9285714285714286
 "When you make loving others the story of your life, there’s never a final chapter, because the legacy continues. You lend your light to one person, and he or she shines it on another and another and another.",,What I Know for Sure,Oprah Winfrey,2014,207,38,2,0,0,0,0,0.5994,69.11,0.868421052631579
 "Beauty is a form of genius - is higher, indeed, than genius, as it needs no explanation.",Lord Henry,The Picture of Dorian Gray,Oscar Wilde,1890,88,17,1,10,2,0,0,0.3818,63.7,0.9411764705882353
-"Behind every exquisite thing that existed, there was something tragic.",Lord Henry,The Picture of Dorian Gray,Oscar Wilde,1890,70,10,1,10,2,0,0,-0.4588,44.41,1.0
 "Dorian is far too wise not to do foolish things now and then, my dear Basil.",Lord Henry,The Picture of Dorian Gray,Oscar Wilde,1890,76,16,1,10,2,0,0,0.7589,89.08,1.0
 Experience was of no ethical value. It was merely the name men gave to their mistakes.,Lord Henry,The Picture of Dorian Gray,Oscar Wilde,1890,86,16,2,10,2,0,0,-0.7382,71.82,0.9375
+"Laughter is not at all a bad beginning for a friendship, and it is by far the best ending for one.",Lord Henry,The Picture of Dorian Gray,Oscar Wilde,1890,98,21,1,10,2,0,0,0.7783,84.0,0.8571428571428571
+Live! Live the wonderful life that is in you! Let nothing be lost upon you. Be always searching for new sensations. Be afraid of nothing.,Lord Henry,The Picture of Dorian Gray,Oscar Wilde,1890,137,25,5,10,2,2,0,0.7388,82.0,0.96
+"Nothing can cure the soul but the senses, just as nothing can cure the senses but the soul.",Lord Henry,The Picture of Dorian Gray,Oscar Wilde,1890,91,18,1,10,2,0,0,0.0,87.05,0.6666666666666666
 The only way to get rid of a temptation is to yield to it.,Lord Henry,The Picture of Dorian Gray,Oscar Wilde,1890,58,14,1,10,2,0,0,0.0,91.11,0.8571428571428571
 To influence a person is to give him one's own soul.,Lord Henry,The Picture of Dorian Gray,Oscar Wilde,1890,52,11,1,10,2,0,0,0.0,85.69,1.0
-"Whenever a man does a thoroughly stupid thing, it is always from the noblest motives.",Lord Henry,The Picture of Dorian Gray,Oscar Wilde,1890,85,15,1,10,2,0,0,-0.5709,64.71,0.9333333333333333
-"There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.",Preface,The Picture of Dorian Gray,Oscar Wilde,1890,108,22,3,7,1,0,0,-0.7351,97.91,0.9090909090909091
+You will always be fond of me. I represent to you all the sins you never had the courage to commit.,Lord Henry,The Picture of Dorian Gray,Oscar Wilde,1890,99,21,2,10,2,0,0,-0.1351,94.66,0.8571428571428571
 Each of us has heaven and hell in him.,,The Picture of Dorian Gray,Oscar Wilde,1890,38,9,1,0,0,0,0,-0.3182,104.64,1.0
 The books that the world calls immoral are books that show the world its own shame.,,The Picture of Dorian Gray,Oscar Wilde,1890,83,16,1,0,0,0,0,-0.7269,97.54,0.75
 To define is to limit.,,The Picture of Dorian Gray,Oscar Wilde,1890,22,5,1,0,0,0,0,0.0,83.32,1.0
@@ -1717,6 +1927,20 @@ Those presents which derive their value from the donor are always the most accep
 "What shame forbade me speak, Love made me write.",,The Heroides,Ovid,1989,48,9,1,0,0,0,0,0.2732,104.64,0.8888888888888888
 Write nothing back to me—yourself come!,,The Heroides,Ovid,1989,39,6,1,0,0,1,0,0.0,73.85,1.0
 "The same substance composes us — the tree overhead, the stone beneath us, the bird, the beast, the star — we are all one, all moving to the same end.",,Mary Poppins,P.L. Travers,1934,149,30,1,0,0,0,0,0.0,76.9,0.7333333333333333
+I did not come to heal her. I came to heal you.,the monster,A Monster Calls,Patrick Ness,2011,47,12,2,11,2,0,0,0.0,116.15,0.75
+"If you speak the truth, you will be able to face whatever comes.",the monster,A Monster Calls,Patrick Ness,2011,64,13,1,11,2,0,0,0.3182,92.12,0.9230769230769231
+Stories are important. They can be more important than anything. If they carry the truth.,the monster,A Monster Calls,Patrick Ness,2011,89,15,3,11,2,0,0,0.6361,74.86,1.0
+"Stories are wild creatures. When you let them loose, who knows what havoc they might wreak?",the monster,A Monster Calls,Patrick Ness,2011,91,16,2,11,2,0,1,-0.7351,97.2,1.0
+The justifications of men who kill should always be heard with skepticism.,the monster,A Monster Calls,Patrick Ness,2011,74,12,1,11,2,0,0,-0.7717,59.3,1.0
+Who am I? I am the spine that the mountains hang upon! I am everything untamed and untameable!,the monster,A Monster Calls,Patrick Ness,2011,94,18,3,11,2,2,1,0.0,82.31,0.7777777777777778
+Don't think you haven't lived long enough to have a story to tell.,,A Monster Calls,Patrick Ness,2011,66,13,1,0,0,0,0,0.0,100.58,0.9230769230769231
+Many things that are true feel like a cheat.,,A Monster Calls,Patrick Ness,2011,44,9,1,0,0,0,0,0.3182,113.1,1.0
+Sometimes people need to lie to themselves most of all.,,A Monster Calls,Patrick Ness,2011,55,10,1,0,0,0,0,0.0,86.71,0.9
+"Stories were wild, wild animals and went off in directions you couldn't expect.",,A Monster Calls,Patrick Ness,2011,79,13,1,0,0,0,0,0.0,66.74,1.0
+There is not always a good guy. Nor is there always a bad one. Most people are somewhere in between.,,A Monster Calls,Patrick Ness,2011,100,20,3,0,0,0,0,-0.7101,90.05,0.85
+You be as angry as you need to be. Don't let anyone tell you otherwise.,,A Monster Calls,Patrick Ness,2011,71,15,2,0,0,0,0,-0.5106,89.24,0.8666666666666667
+You do not write your life with words... You write it with actions. What you think is not important. It is only important what you do.,,A Monster Calls,Patrick Ness,2011,134,26,6,0,0,0,0,0.0536,98.72,0.7692307692307693
+Your mind will believe comforting lies while also knowing the painful truths that make those lies necessary.,,A Monster Calls,Patrick Ness,2011,108,17,1,0,0,0,0,-0.4588,71.14,0.9411764705882353
 "Human knowledge is never contained in one person. It grows from the relationships we create between each other and the world, and still, it is never complete.",,When Breath Becomes Air,Paul Kalanithi,2016,158,27,2,0,0,0,0,0.2732,66.23,0.8518518518518519
 "If you can concentrate always on the present, you'll be a happy man. Life is the moment we are living now.",Santiago,The Alchemist,Paulo Coelho,1988,106,21,2,8,1,0,0,0.5719,86.2,0.9523809523809523
 "And, when you want something, all the universe conspires in helping you to achieve it.",,The Alchemist,Paulo Coelho,1988,86,15,1,0,0,0,0,0.3612,81.63,0.9333333333333333
@@ -1767,6 +1991,18 @@ There is nothing that cuts you down to size like coming to some strange and marv
 We all have to meet our match sometime or other.,,Watership Down,Richard Adams,1972,48,10,1,0,0,0,0,0.0,95.17,1.0
 "We are not conscious of daylight as that which displaces darkness. Daylight, even when the sun is clear of clouds, seems to us simply the natural condition of the earth and air.",,Watership Down,Richard Adams,1972,177,32,2,0,0,0,0,0.4767,80.62,0.875
 You know how you let yourself think that everything will be all right if you can only get to a certain place or do a certain thing. But when you get there you find it's not that simple.,,Watership Down,Richard Adams,1972,185,38,2,0,0,0,0,0.2732,86.03,0.8157894736842105
+"Because if you don't have someone to run out of town once in a while, how are you going to know you yourself belong there?",,Thinner,Richard Bachman,1984,122,25,1,0,0,0,1,0.0,79.94,0.88
+In many ways the world is nothing but a pile of shit. But it can also be very beautiful.,,Thinner,Richard Bachman,1984,88,19,2,0,0,0,0,0.2238,95.67,1.0
+Sometimes the gods give you a break.,,Thinner,Richard Bachman,1984,36,7,1,0,0,0,0,0.0,106.67,1.0
+The definition of an asshole is a guy who doesn't believe what he's seeing.,,Thinner,Richard Bachman,1984,75,14,1,0,0,0,0,0.0,65.73,1.0
+"Things hurt more when you were alone, that was all.",,Thinner,Richard Bachman,1984,51,10,1,0,0,0,0,-0.6597,112.09,1.0
+I am legend.,Robert Neville,I Am Legend and Other Stories,Richard Matheson,1954,12,3,1,14,2,0,0,0.0,93.81,1.0
+A man could get used to anything if he had to.,,I Am Legend and Other Stories,Richard Matheson,1954,46,11,1,0,0,0,0,0.0,102.61,1.0
+A surfeiting of terror soon made terror a cliché.,,I Am Legend and Other Stories,Richard Matheson,1954,49,9,1,0,0,0,0,-0.7783,79.26,0.8888888888888888
+"After a while, though, even the deepest sorrow faltered, even the most penetrating despair lost its scalpel edge.",,I Am Legend and Other Stories,Richard Matheson,1954,113,18,1,0,0,0,0,-0.8197,70.13,0.8888888888888888
+"Either he found the answer or he ditched the whole mess, life included.",,I Am Legend and Other Stories,Richard Matheson,1954,71,13,1,0,0,0,0,-0.3612,83.66,0.8461538461538461
+In a world of monotonous horror there could be no salvation in wild dreaming.,,I Am Legend and Other Stories,Richard Matheson,1954,77,14,1,0,0,0,0,-0.7096,65.73,1.0
+Let the jagged edge of sobriety be now dulled.,,I Am Legend and Other Stories,Richard Matheson,1954,46,9,1,0,0,0,0,-0.3612,96.18,1.0
 "I set off, off to kill the man I loved.",Rose Hathaway,Vampire Academy,Richelle Mead,2007,39,10,1,13,2,0,0,-0.2023,112.09,0.9
 "You can't force love. If it is there, you've got to do whatever it takes to protect the ones you love.",Rose Hathaway,Frostbite,Richelle Mead,2008,102,21,2,13,2,0,0,0.5318,94.66,0.8571428571428571
 "It was memories like that that made it so hard to comprehend the quest to kill him. At the same time, I had to destroy him to remember him as the man who loved me.",Rose Hathaway,Blood Promise,Richelle Mead,2010,163,35,2,13,2,0,0,-0.567,87.55,0.8
@@ -1853,14 +2089,30 @@ There's never a man looked me between the eyes and seen a good day a'terward,Lon
 Then it was that there came into my head the first of the mad notions that contributed so much to saving our lives.,,Treasure Island,Robert Louis Stevenson,1883,115,23,1,0,0,0,0,-0.4939,81.97,0.9130434782608695
 "We got together in a few days a company of the toughest old salts imaginable--not pretty to look at, but fellows, by their faces, of the most indomitable spirit.",,Treasure Island,Robert Louis Stevenson,1883,161,29,1,0,0,0,0,0.5295,58.96,0.896551724137931
 yo ho ho and a bottle of rum,,Treasure Island,Robert Louis Stevenson,1883,28,8,0,0,0,0,0,0.0,105.66,0.875
+"All human beings, as we meet them, are commingled out of good and evil.",,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,71,14,1,0,0,0,0,-0.3612,82.65,1.0
+I learned to recognise the thorough and primitive duality of man.,,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,65,11,1,0,0,0,0,0.0,60.31,1.0
+Jekyll had more than a father's interest; Hyde had more than a son's indifference.,,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,82,14,1,0,0,0,0,0.4215,74.19,0.7142857142857143
+There comes an end to all things; the most capacious measure is filled at last; and this brief condescension to evil finally destroyed the balance of my soul.,,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,158,28,1,0,0,0,0,-0.8225,59.98,0.9285714285714286
+This was the shocking thing; that the slime of the pit seemed to utter cries and voices; that the amorphous dust gesticulated and sinned.,,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,137,24,1,0,0,0,0,-0.7089,72.5,0.7916666666666666
+"With every day, and from both sides of my intelligence, the moral and the intellectual, I thus drew steadily nearer to the truth, by whose partial discovery I have been doomed to such a dreadful shipwreck: that man is not truly one, but truly two.",,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,247,45,1,0,0,0,0,0.5341,42.72,0.8666666666666667
+You must suffer me to go my own dark way.,,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,41,10,1,0,0,0,0,-0.5423,103.63,1.0
+"You start a question, and it's like starting a stone. You sit quietly on the top of a hill; and away the stone goes, starting others.",,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,133,26,2,0,0,0,0,0.5106,92.12,0.7692307692307693
+"I learned to recognise the thorough and primitive duality of man; I saw that, of the two natures that contended in the field of my consciousness, even if I could rightly be said to be either, it was only because I was radically both.",Dr. Jekyll,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,233,44,1,10,2,0,0,0.0,43.74,0.7727272727272727
 That child of Hell had nothing human; nothing lived in him but fear and hatred.,Dr. Jekyll,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,79,15,1,10,2,0,0,-0.9313,81.63,0.9333333333333333
+"With every day, and from both sides of my intelligence, I thus drew steadily nearer to the truth, by whose partial discovery I have been doomed to such a dreadful shipwreck: that man is not truly one, but truly two.",Dr. Jekyll,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,215,40,1,10,2,0,0,0.3176,56.26,0.925
 "I felt younger, lighter, happier in body; within I was conscious of a heady recklessness, a current of disordered sensual images running like a millrace in my fancy.",Jekyll,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,165,28,1,6,1,0,0,0.7096,51.52,0.8214285714285714
 "I have been made to learn that the doom and burden of our life is bound forever on man's shoulders; and when the attempt is made to cast it off, it but returns upon us with more unfamiliar and more awful pressure.",Jekyll,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,213,42,1,6,1,0,0,-0.8874,54.23,0.8095238095238095
-You must suffer me to go my own dark way.,Jekyll,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,41,10,1,6,1,0,0,-0.5423,103.63,1.0
 "All human beings, as we meet them, are commingled out of good and evil: and Edward Hyde, alone, in the ranks of mankind, was pure evil.",,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,135,26,1,0,0,0,0,-0.836,78.93,0.9230769230769231
 "His affections, like ivy, were the growth of time, they implied no aptness in the object.",,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,89,16,1,0,0,0,0,0.6597,80.62,0.9375
+"I have been doomed to such a dreadful shipwreck: that man is not truly one, but truly two.",,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,90,18,1,0,0,0,0,-0.1035,87.05,0.9444444444444444
+"I have been made to learn that the doom and burden of our life is bound forever on man’s shoulders; and when the attempt is made to cast it off, it but returns upon us with more unfamiliar and more awful pressure.",,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,213,42,1,0,0,0,0,-0.8874,54.23,0.8095238095238095
+I incline to Cain's heresy: I let my brother go to the devil in his own way.,,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,76,17,1,0,0,0,0,-0.6597,88.06,0.8823529411764706
+"I sometimes think if we knew all, we should be more glad to get away.",,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,69,15,1,0,0,0,0,0.5095,98.55,0.9333333333333333
+"If I am the chief of sinners, I am the chief of sufferers also.",,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,63,14,1,0,0,0,0,-0.5267,82.65,0.6428571428571429
+"It is one thing to mortify curiosity, another to conquer it.",,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,60,11,1,0,0,0,0,0.0,51.85,0.9090909090909091
 "Man is not truly one, but truly two.",,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,36,8,1,0,0,0,0,0.4848,88.74,0.875
 "Quiet minds cannot be perplexed or frightened but go on in fortune or misfortune at their own private pace, like a clock during a thunderstorm.",,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,143,25,1,0,0,0,0,0.4178,63.02,0.92
+"Strange as my circumstances were, the terms of this debateare as old and commonplace as man; much the same inducements andalarms cast the die for any tempted and trembling sinner.",,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,179,30,1,0,0,0,0,-0.802,57.95,0.8333333333333334
 "You start a question, and it's like starting a stone. You sit quietly on the top of a hill; and away the stone goes, starting others...",,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,135,26,4,0,0,0,0,0.5106,92.12,0.7692307692307693
 "When you can’t find someone to follow, you have to find a way to lead by example.",,Bad Feminist,Roxane Gay,2014,81,17,1,0,0,0,0,0.0,88.06,0.7647058823529411
 "Stay gold, Ponyboy, stay gold.",,The Outsiders,S. E. Hinton,1967,30,5,1,0,0,0,0,0.0,100.24,1.0
@@ -1870,7 +2122,23 @@ It was fun to see them playing or sunning themselves among the kelp. It was more
 The morning was fresh from the rain. The smell of the tide pools was strong. Sweet odors came from the wild grasses in the ravines and from the sand plants on the dunes.,Karana,Island of the Blue Dolphins,Scott O'Dell,1960,169,33,3,6,1,0,0,0.8225,102.61,0.7272727272727273
 Without them the earth would be an unhappy place.,Karana,Island of the Blue Dolphins,Scott O'Dell,1960,49,9,1,6,1,0,0,-0.4215,87.72,1.0
 "More than anything, it was the blue dolphins that took me back home.",,Island of the Blue Dolphins,Scott O'Dell,1960,68,13,1,0,0,0,0,0.0,92.12,1.0
+"It may perhaps be pleasant, but it is sometimes a disadvantage to be so very guarded. If a woman conceals her affection with the same skill from the object of it, she may lose the opportunity.",,Pride and Prejudice and Zombies,Seth Grahame-Smith,2009,192,36,2,0,0,0,0,0.4939,70.13,0.8611111111111112
+"Of all the weapons in the world, love is the most dangerous.",,Pride and Prejudice and Zombies,Seth Grahame-Smith,2009,60,12,1,0,0,0,0,-0.2716,93.14,0.8333333333333334
+"The more I see of the world, the more I am dissatisfied with it.",,Pride and Prejudice and Zombies,Seth Grahame-Smith,2009,64,14,1,0,0,0,0,-0.4336,91.11,0.7857142857142857
+Think only of the past as its remembrance gives you pleasure.,,Pride and Prejudice and Zombies,Seth Grahame-Smith,2009,61,11,1,0,0,0,0,0.5719,77.23,1.0
+"But I am happy. And happiness, I have decided, is a noble ambition.",,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,2010,67,13,2,0,0,0,0,0.9428,64.88,0.9230769230769231
+"I leave you, hoping that the lamp of liberty will burn in your bosoms until there shall no longer be a doubt that all men are created free and equal.",,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,2010,149,30,1,0,0,0,0,0.765,74.87,0.9666666666666667
+I wouldn't back away from what's right just because it's hard.,,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,2010,62,11,1,0,0,0,0,-0.1027,94.15,1.0
+"Living men are bound by time... Thus, their lives have an urgency. Their lives have seasons, and rites of passage, and consequences. And ultimately, an end. But what of a life with no urgency? What then of ambition? What then of love?",,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,2010,234,42,9,0,0,0,3,0.6747,90.77,0.7857142857142857
+"Most men have no purpose but to exist, Abraham; to pass quietly through history as minor characters upon a stage they cannot even see.",,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,2010,134,24,1,0,0,0,0,-0.1857,55.58,0.9583333333333334
+"Real power comes not from hate, but from truth.",,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,2010,47,9,1,0,0,0,0,0.6058,96.18,0.8888888888888888
+"So long as this country is cursed with slavery, so too will it be cursed with vampires.",,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,2010,87,17,1,0,0,0,0,-0.7003,88.06,0.8823529411764706
+"There are but two types of men who desire war: those who haven’t the slightest intention of fighting it themselves, and those who haven’t the slightest idea what it is.",,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,2010,168,30,1,0,0,0,0,-0.7227,74.87,0.7333333333333333
+"Without death, life is meaningless. It is a story that can never be told. A song that can never be sung.",,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,2010,104,21,3,0,0,0,0,0.0634,89.75,0.7619047619047619
 We accept the love we think we deserve.,,The Perks of Being a Wallflower,Stephen Chbosky,1999,39,8,1,0,0,0,0,0.7783,88.74,0.875
+"If being a kid is about learning how to live, then being a grown-up is about learning how to die.",,Christine,Stephen King,1883,97,20,1,0,0,0,0,-0.5994,85.02,0.65
+Maybe that’s one of the ways you recognize really lonely people...they can always think of something neat to do on rainy days.,,Christine,Stephen King,1883,126,22,4,0,0,0,0,-0.024,77.23,0.9545454545454546
+"The more I dislike adults, the more apt I am to call them Sir.",,Christine,Stephen King,1883,62,14,1,0,0,0,0,-0.4364,99.57,0.8571428571428571
 But see that you get on. That's your job in this hard world.,Jack Torrance,The Shining,Stephen King,1977,60,13,2,13,2,0,0,-0.1901,115.64,1.0
 "That's your job in this hard world, to keep your love alive and see that you get on, no matter what.",Jack Torrance,The Shining,Stephen King,1977,100,21,1,13,2,0,0,0.7372,100.92,0.9523809523809523
 "The world don’t love you, but your momma does and so do I.",Jack Torrance,The Shining,Stephen King,1977,58,13,1,13,2,0,0,0.3818,100.58,1.0
@@ -1884,23 +2152,244 @@ The sleep of reason breeds monsters.,,The Shining,Stephen King,1977,36,6,1,0,0,0
 The tears that heal are also the tears that scald and scourge.,,The Shining,Stephen King,1977,62,12,1,0,0,0,0,-0.4215,101.6,0.8333333333333334
 We sometimes need to create unreal monsters and bogies to stand in for all the things we fear in our real lives.,,The Shining,Stephen King,1977,112,22,1,0,0,0,0,-0.2732,74.53,0.9090909090909091
 "When we grow up, concepts gradually get easier and we leave the images to the poets",,The Shining,Stephen King,1977,83,16,0,0,0,0,0,0.3818,63.7,0.875
+"As we become aware of our own unavoidable termination, we become aware of the fear-emotion.",,Night Shift,Stephen King,1978,91,15,1,0,0,0,0,0.0,56.25,0.7333333333333333
+"I felt comfortable as only one can on such a night, when all is miserable outside and all is warmth and comfort inside.",,Night Shift,Stephen King,1978,119,23,1,0,0,0,0,0.6808,73.51,0.8695652173913043
+"If you want to write, you write. The only way to learn to write is by writing.",,Night Shift,Stephen King,1978,78,17,2,0,0,0,0,0.0772,105.15,0.8235294117647058
+"Let's talk, you and I. Let's talk about fear.",,Night Shift,Stephen King,1978,45,9,2,0,0,0,0,-0.4939,117.67,0.8888888888888888
+Love is the most pernicious drug of all. Let the romantics debate its existence. Pragmatists accept it and use it.,,Night Shift,Stephen King,1978,114,20,3,0,0,0,0,0.8658,73.13,0.95
+Story is something happening to someone you have been led to care about.,,Night Shift,Stephen King,1978,72,13,1,0,0,0,0,0.4939,75.2,0.9230769230769231
+"The ladder had always held us before, we thought it would always hold us again, which is a philosophy that gets men and nations in trouble time after time.",,Night Shift,Stephen King,1978,155,29,1,0,0,0,0,-0.4019,67.42,0.9310344827586207
+"The stench in the air grew steadily stronger, and the dark about us seemed to press like wool, as if jealous of the light.",,Night Shift,Stephen King,1978,122,24,1,0,0,0,0,-0.296,89.42,0.9166666666666666
+Why do you choose to write about such gruesome subjects? I usually answer this with another question: Why do you assume that I have a choice?,,Night Shift,Stephen King,1978,141,26,2,0,0,0,2,0.0,83.66,0.8461538461538461
+"You want to remember that while you're judging the book, the book is also judging you.",,Night Shift,Stephen King,1978,86,16,1,0,0,0,0,0.0772,80.62,0.875
+"Above, the stars shone hard and bright, sparks struck off the dark skin of the universe.",,The Stand,Stephen King,1978,88,16,1,0,0,0,0,0.128,97.54,0.875
+Even the company of the mad was better than the company of the dead.,,The Stand,Stephen King,1978,68,14,1,0,0,0,0,-0.6808,74.19,0.6428571428571429
+"If we don't have each other, we go crazy with loneliness. When we do, we go crazy with togetherness.",,The Stand,Stephen King,1978,100,19,2,0,0,0,0,-0.765,87.21,0.6842105263157895
+"Life was such a wheel that no man could stand upon it for long. And it always, at the end, came round to the same place again.",,The Stand,Stephen King,1978,126,27,2,0,0,0,0,-0.296,100.07,0.9259259259259259
+Love didn't grow very well in a place where there was only fear,,The Stand,Stephen King,1978,63,13,0,0,0,0,0,-0.008,92.12,1.0
+No one can tell what goes on in between the person you were and the person you become.,,The Stand,Stephen King,1978,86,18,1,0,0,0,0,-0.296,87.05,0.8333333333333334
+Silent white light filled the world. And the righteous and unrighteous alike were consumed in that holy fire.,,The Stand,Stephen King,1978,109,18,2,0,0,0,0,-0.34,96.18,0.9444444444444444
+The place where you made your stand never mattered. Only that you were there...and still on your feet.,,The Stand,Stephen King,1978,102,18,5,0,0,0,0,0.0,99.23,0.8888888888888888
 The place where you made your stand never mattered. Only that you were there… and still on your feet.,,The Stand,Stephen King,1978,101,19,2,0,0,0,0,0.0,95.67,0.8947368421052632
+"There’s always a choice. That’s God’s way, always will be.",,The Stand,Stephen King,1978,58,10,2,0,0,0,0,0.0,100.24,0.9
+"What would his father do then? Go on, Johnny supposed. People had a way of doing that, just going on, pushing through with no particular drama.",Johnny,The Dead Zone,Stephen King,1979,143,26,3,6,1,0,1,-0.296,79.56,0.9615384615384616
+"All do what we can, and it has to be good enough. Nothing is ever lost, Sarah. Nothing that can't be found.",,The Dead Zone,Stephen King,1979,107,22,3,0,0,0,0,0.5943,106.37,0.9090909090909091
+"Ninety-five percent of people who walk the earth are simply inert. One percent are saints, and one percent are assholes. The other three percent are people who do what they say they can do.",,The Dead Zone,Stephen King,1979,189,34,3,0,0,0,0,-0.5859,76.93,0.7352941176470589
+"Nothing is ever lost, Sarah. Nothing that can't be found.",,The Dead Zone,Stephen King,1979,57,10,2,0,0,0,0,0.2411,91.78,0.9
+Some things were better lost than found.,,The Dead Zone,Stephen King,1979,40,7,1,0,0,0,0,0.1531,106.67,1.0
+"We all do what we can, and it has to be good enough, and if it isn't good enough, it has to do.",,The Dead Zone,Stephen King,1979,95,23,1,0,0,0,0,0.1265,98.89,0.6956521739130435
+Life is short and pain is long and we were all put on this earth to help each other.,,Firestarter,Stephen King,1980,84,19,1,0,0,0,0,-0.1531,94.49,0.8947368421052632
+Life is short and pain is long...,,Firestarter,Stephen King,1980,33,7,3,0,0,0,0,-0.5106,115.13,0.8571428571428571
+The brain is a muscle that can move the world.,,Firestarter,Stephen King,1980,46,10,1,0,0,0,0,0.0,103.63,1.0
+All the logic in the world could not blunt the pain.,,Cujo,Stephen King,1981,52,11,1,0,0,0,0,0.4023,102.61,0.8181818181818182
+In high school the business of irrevocable choices began. Doors slipped shut with a faint locking click that was only heard clearly in the dreams of later years.,,Cujo,Stephen King,1981,161,28,2,0,0,0,0,0.6597,74.19,0.9285714285714286
+"It was amazing, wasn't it, how bad you could hurt when there was nothing physically wrong.",,Cujo,Stephen King,1981,90,16,1,0,0,0,0,0.7007,72.16,0.9375
+It was more like bleeding than crying.,,Cujo,Stephen King,1981,38,7,1,0,0,0,0,-0.079,89.75,1.0
+Surely they had passed the worst. Sooner or later even the worst luck changes.,,Cujo,Stephen King,1981,78,14,2,0,0,0,0,-0.5106,98.21,0.9285714285714286
+"The world was full of monsters, and they were all allowed to bite the innocent and the unwary",,Cujo,Stephen King,1981,93,18,0,0,0,0,0,0.34,78.59,0.8888888888888888
+There is no bad time for good news.,,Cujo,Stephen King,1981,35,8,1,0,0,0,0,0.6956,114.12,1.0
+That's the beauty of music. They can't get that from you...there are places in this world that aren't made out of stone.,Andy Dufresne,Different Seasons,Stephen King,1982,120,22,5,13,2,0,0,0.5859,106.37,0.9090909090909091
+Fear can hold you prisoner. Hope can set you free.,,Different Seasons,Stephen King,1982,50,10,2,0,0,0,0,-0.128,100.24,0.8
 "Get busy living, or get busy dying.",,Different Seasons,Stephen King,1982,35,7,1,0,0,0,0,0.0,89.75,0.8571428571428571
+I don’t have to listen to rumors about a man when I can judge him for myself.,,Different Seasons,Stephen King,1982,77,17,1,0,0,0,0,0.0,88.06,0.8823529411764706
+"I never had any friends later on like the ones I had when I was 12 - Jesus, did you?",,Different Seasons,Stephen King,1982,84,20,1,0,0,0,1,-0.0139,86.03,0.85
+"Some birds are not meant to be caged, that's all. Their feathers are too bright.",,Different Seasons,Stephen King,1982,80,15,2,0,0,0,0,0.4404,106.16,0.9333333333333333
+"Speech destroys the functions of love, I think... Love has teeth; they bite; the wounds never close.",,Different Seasons,Stephen King,1982,100,17,4,0,0,0,0,0.7003,96.69,0.9411764705882353
+"The most important things are the hardest to say. They are the things you get ashamed of, because words diminish them.",,Different Seasons,Stephen King,1982,118,21,2,0,0,0,0,-0.2516,86.2,0.8571428571428571
+There's no harm in hoping for the best as long as you're prepared for the worst.,,Different Seasons,Stephen King,1982,80,16,1,0,0,0,0,0.7684,97.54,0.8125
+"Time continued to pass - the oldest trick in the world, and maybe the only one that really is magic.",,Different Seasons,Stephen King,1982,100,20,1,0,0,0,0,-0.0516,69.11,0.9
+"Until we see each other again, keep your head together, read some good books, be useful, be happy.",,Different Seasons,Stephen King,1982,98,18,1,0,0,0,0,0.8591,78.59,0.9444444444444444
 Get busy living or get busy dying.,,Rita Hayworth and Shawshank Redemption,Stephen King,1982,34,7,1,0,0,0,0,0.0,89.75,0.8571428571428571
-"Go then, there are other worlds than these.",Jake,The Gunslinger,Stephen King,1982,43,8,1,4,1,0,0,0.0,105.66,1.0
-I do not aim with my hand; he who aims with his hand has forgotten the face of his father. I aim with my eye.,Roland,The Gunslinger,Stephen King,1982,109,25,2,6,1,0,0,0.6705,101.09,0.76
 I kill with my heart.,Roland,The Gunslinger,Stephen King,1982,21,5,1,6,1,0,0,-0.128,117.16,1.0
+I do not aim with my hand; he who aims with his hand has forgotten the face of his father. I aim with my eye.,Roland Deschain,The Gunslinger,Stephen King,1982,109,25,2,15,2,0,0,0.6705,101.09,0.76
+"Beyond the reach of human rage, A drop of hell, a touch of strange ...",,The Gunslinger,Stephen King,1982,70,15,3,0,0,0,0,-0.9001,99.57,0.8666666666666667
+"Go then, there are other worlds than these.",,The Gunslinger,Stephen King,1982,43,8,1,0,0,0,0,0.0,105.66,1.0
+"Once again there was the desert, and that only.",,The Gunslinger,Stephen King,1982,47,9,1,0,0,0,0,0.0,104.64,1.0
+"Take the dead from the dead, the old proverb said; only a corpse may speak true prophecy.",,The Gunslinger,Stephen King,1982,89,17,1,0,0,0,0,-0.8885,96.52,0.8823529411764706
+The greatest mystery the universe offers is not life but size. Size encompasses life.,,The Gunslinger,Stephen King,1982,85,14,2,0,0,0,0,0.3818,72.83,1.0
 "The man in black fled across the desert, and the gunslinger followed.",,The Gunslinger,Stephen King,1982,69,12,1,0,0,0,0,0.0,93.14,0.9166666666666666
+The mystery of the universe is not time but size.,,The Gunslinger,Stephen King,1982,49,10,1,0,0,0,0,0.0,95.17,1.0
+They had discovered one could grow as hungry for light as for food.,,The Gunslinger,Stephen King,1982,67,13,1,0,0,0,0,0.0,92.12,0.8461538461538461
 Time is a face on the water.,,The Gunslinger,Stephen King,1982,28,7,1,0,0,0,0,0.0,106.67,1.0
+Was there ever a trap to match the trap of love?,,The Gunslinger,Stephen King,1982,48,11,1,0,0,0,1,0.1531,102.61,0.9090909090909091
+"Sometimes, dead is bettah",Jud Crandall,Pet Sematary,Stephen King,1983,25,4,0,12,2,0,0,-0.6486,75.88,1.0
+"Death is a mystery, and burial is a secret.",,Pet Sematary,Stephen King,1983,43,9,1,0,0,0,0,-0.5994,87.72,0.7777777777777778
+"Don’t go beyond, no matter how much you feel you need to, Doctor. The barrier was not made to be broken. It is old and always restless. Remember.",,Pet Sematary,Stephen King,1983,145,28,4,0,0,0,0,-0.6979,78.96,0.9642857142857143
+"It's like many other things in life, Ellie. You keep on the path and all's well. You get off it and the next thing you know, you're lost.",,Pet Sematary,Stephen King,1983,137,28,3,0,0,0,0,0.3182,104.34,0.8928571428571429
+"It's probably wrong to believe there can be any limit to the horror which the human mind can experience. When the nightmare grows black enough, horror spawns horror.",,Pet Sematary,Stephen King,1983,165,28,2,0,0,0,0,-0.9349,74.19,0.8214285714285714
+"May be she’ll learn something about what death really is, which is where the pain stops and the good memories begin. Not the end of life but the end of pain.",,Pet Sematary,Stephen King,1983,157,31,2,0,0,0,0,-0.8126,89.58,0.8387096774193549
+"Only children tell the whole truth, you know. That's what makes them children.",,Pet Sematary,Stephen King,1983,78,13,2,0,0,0,0,0.3182,98.72,1.0
+The old sleep poorly. Perhaps they stand watch.,,Pet Sematary,Stephen King,1983,47,8,2,0,0,0,0,0.0,92.8,1.0
+"The soil of a man's heart is stonier, Louis. A man grows what he can, and he tends it. 'Cause what you buy is what you own. And what you own... always comes home to you.",,Pet Sematary,Stephen King,1983,169,36,7,0,0,0,0,0.6369,114.93,0.8055555555555556
+The soil of a man's heart is stonier; a man grows what he can and tends it.,,Pet Sematary,Stephen King,1983,75,17,1,0,0,0,0,0.6369,104.98,0.9411764705882353
+"There is no gain without risk, perhaps no risk without love.",,Pet Sematary,Stephen King,1983,60,11,1,0,0,0,0,-0.5448,85.69,0.8181818181818182
+We either learn to accept or we end up writing letters home with crayons.,,Pet Sematary,Stephen King,1983,73,14,1,0,0,0,0,0.3818,82.65,1.0
+"Oh Christ, if this is the stuff adults have to think about I never want to grow up",Ben,It,Stephen King,1986,82,18,0,3,1,0,0,-0.0572,95.51,0.9444444444444444
+"Your hair is winter fire January embers My heart burns there, too.",Ben,It,Stephen King,1986,66,12,1,3,1,0,0,0.4215,84.68,1.0
+"Eddie discovered one of his childhood's great truths. Grownups are the real monsters,",Eddie,It,Stephen King,1986,85,13,1,5,1,0,0,0.7845,73.34,1.0
+Eddie discovered one of his childhood's great truths. Grownups are the real monsters.,Eddie,It,Stephen King,1986,85,13,2,5,1,0,0,0.7845,73.34,1.0
+The energy you drew on so extravagantly when you were a kid - that slipped away somewhere between eighteen and twenty-four.,Richie,It,Stephen King,1986,123,21,1,6,1,0,0,0.2732,51.18,0.9523809523809523
+Best not to look back. Best to believe there will be happily ever afters all the way around.,,It,Stephen King,1986,92,18,2,0,0,0,0,0.9186,87.72,0.8888888888888888
+"Drive away and try to keep smiling. Get a little rock and roll on the radio and go toward all the life there is with all the courage you can find and all the belief you can muster. Be true, be brave, stand.",,It,Stephen King,1986,206,43,3,0,0,0,0,0.9081,99.26,0.7674418604651163
+"Get a little rock and roll on the radio and go toward all the life there is with all the courage you can find and all the belief you can muster. Be true, be brave, stand.",,It,Stephen King,1986,170,36,2,0,0,0,0,0.8555,95.51,0.75
+"Maybe there aren't any such things as good friends or bad friends - maybe there are just friends, people who stand by you when you're hurt and who help you feel not so lonely.",,It,Stephen King,1986,175,34,1,0,0,0,0,0.8644,80.28,0.8823529411764706
+"No good friends, no bad friends; only people you want, need to be with. People who build their houses in your heart.",,It,Stephen King,1986,116,22,2,0,0,0,0,0.211,94.15,1.0
+Politics always change. Stories never do.,,It,Stephen King,1986,41,6,2,0,0,0,0,0.0,51.51,1.0
+"The energy you drew on so extravagantly when you were a kid, the energy you thought would never exhaust itself - that slipped away somewhere between eighteen and twenty-four,",,It,Stephen King,1986,174,29,0,0,0,0,0,0.6234,43.06,0.896551724137931
+We lie best when we lie to ourselves.,,It,Stephen King,1986,37,8,1,0,0,0,0,0.6369,105.66,0.875
+What can be done when you’re eleven can often never be done again.,,It,Stephen King,1986,66,13,1,0,0,0,0,0.0,92.12,0.7692307692307693
+"As always, the blessed relief of starting, a feeling that was like falling into a hole filled with bright light.",,Misery,Stephen King,1987,112,20,1,0,0,0,0,0.9062,76.56,0.95
+"He lay back, put his arm over his eyes, and tried to hold onto the anger, because the anger made him feel brave. A brave man could think. A coward couldn't.",,Misery,Stephen King,1987,156,31,3,0,0,0,0,-0.5574,103.32,0.9032258064516129
+I am your number one fan.,,Misery,Stephen King,1987,25,6,1,0,0,0,0,0.3818,99.23,1.0
+"The work, the pride in your work, the worth of the work itself...all those things faded away to the magic-lantern shades they really were when the pain got bad enough.",,Misery,Stephen King,1987,167,30,4,0,0,0,0,-0.5423,90.09,0.8333333333333334
+There comes a point when the very discussion of pain becomes redundant. No one knows there is pain the size of this in the world. No one.,,Misery,Stephen King,1987,137,27,3,0,0,0,0,-0.8824,91.61,0.8148148148148148
+"Writers remember everything...especially the hurts. Strip a writer to the buff, point to the scars, and he'll tell you the story of each small one. A little talent is a nice thing to have if you want to be a writer, but the only real requirement is the ability to remember the story of every scar. Art consists of the persistence of memory.",,Misery,Stephen King,1987,340,63,7,0,0,0,0,0.5724,75.61,0.6825396825396826
+"Writing does not cause misery, it is born of misery. – Montaigne",,Misery,Stephen King,1987,64,12,1,0,0,0,0,-0.1783,77.23,1.0
+"For every mother who ever cursed God for her child dead in the road, for every father who ever cursed the man who sent him away from the factory with no job, for every child who was ever born to pain and asked why, this is the answer. Our lives are like these things I build.",,The Drawing of the Three,Stephen King,1987,275,56,2,0,0,0,0,-0.7351,76.9,0.75
+He was a romantic in his own harsh way... yet he was also realist enough to know that sometimes love actually did conquer all.,,The Drawing of the Three,Stephen King,1987,126,24,4,0,0,0,0,0.6124,76.22,0.9583333333333334
+"I looked at what he built, and to me it explained the stars.",,The Drawing of the Three,Stephen King,1987,60,13,1,0,0,0,0,0.0,100.58,1.0
+"If you have given up your heart for the Tower, Roland, you have already lost. A heartless creature is a loveless creature, and a loveless creature is a beast.",,The Drawing of the Three,Stephen King,1987,158,29,2,0,0,0,0,-0.0772,82.14,0.7586206896551724
+"If you kill what you love, you're damned.",,The Drawing of the Three,Stephen King,1987,41,8,1,0,0,0,0,-0.4767,114.12,0.875
+"Later, with strange galaxies turning in slow gavotte overhead, neither thought the act of love had ever been so sweet, so full",,The Drawing of the Three,Stephen King,1987,126,22,0,0,0,0,0,0.8056,74.53,0.9545454545454546
+"Oh, there were all sorts of things to wonder about, but the truth was simple: here stood this door alone on an endless stretch of beach, and it was for only one of two things: opening or leaving closed.",,The Drawing of the Three,Stephen King,1987,202,39,1,0,0,0,0,0.1154,65.73,0.9230769230769231
+"So for a moment the gunslinger merely stood inside the door, first amazed, then ironically amused. Here he was in a world which struck him dumb with fresh wonders seemingly at every step, a world where carriages flew trough the air and paper seemed as cheap as sand.",,The Drawing of the Three,Stephen King,1987,266,48,2,0,0,0,0,0.4588,72.5,0.875
+"We are going to fight. We are going to be hurt. And in the end, we will stand.",,The Drawing of the Three,Stephen King,1987,78,18,3,0,0,0,0,-0.7184,107.69,0.7777777777777778
+"Hugh stretched out one hand and stroked the fur. It felt cold and rich, it crackled with silky static electricity. Stroking it was like stroking a clear autumn night.",Hugh,Needful Things,Stephen King,1991,166,29,3,4,1,0,0,0.8979,95.47,0.9310344827586207
+"Because in America, you could have anything you wanted, just as long as you could pay for it.",,Needful Things,Stephen King,1991,93,18,1,0,0,0,0,-0.1027,78.59,0.7777777777777778
+Everyone loves something for nothing...even if it costs everything.,,Needful Things,Stephen King,1991,67,9,4,0,0,0,0,0.5719,66.91,1.0
+I can love you and I can love life and bear the pain all at the same time.,,Needful Things,Stephen King,1991,74,18,1,0,0,0,0,0.7269,103.97,0.7222222222222222
+"Love, the simplest, strongest, and most unforgiving of all emotions.",,Needful Things,Stephen King,1991,68,10,1,0,0,0,0,0.7964,61.33,1.0
+"Put an egg in your shoe and beat it, make like a tree and leave, imitate an amoeba and split.",,Needful Things,Stephen King,1991,93,20,1,0,0,0,0,0.3182,85.02,0.85
+The real reason he’d gone was the one most bad decisions have in common: it had seemed like a good idea at the time.,,Needful Things,Stephen King,1991,116,24,1,0,0,0,0,0.1548,80.96,0.9583333333333334
+"There were people who lied for gain, people who lied from pain, people who lied simply because the concept of telling the truth was utterly alien to them.",,Needful Things,Stephen King,1991,154,28,1,0,0,0,0,-0.6597,68.44,0.75
+Why is it that so many people think all the answers are in their wallet?,,Needful Things,Stephen King,1991,72,15,1,0,0,0,1,0.0,90.09,1.0
+"lies and love rarely went together, and never for long.",,Needful Things,Stephen King,1991,55,10,1,0,0,0,0,0.34,86.71,0.9
+"Jake went in, aware that he had, for the first time in three weeks, opened a door without hoping madly to find another world on the other side.",Jake,The Waste Lands,Stephen King,1991,143,28,1,4,1,0,0,-0.0191,76.9,0.9642857142857143
+"The mild, spicy smell of old books hit him, and the smell was somehow like coming home.",Jake,The Waste Lands,Stephen King,1991,87,17,1,4,1,0,0,0.3612,96.52,0.9411764705882353
+Roland grabbed Jake and hauled him to his feet. You came Jake shouted. You really came.,Roland,The Waste Lands,Stephen King,1991,87,16,3,6,1,0,0,0.0,99.94,0.875
+"After all, there are other worlds than these and that fuckin train rolls through all of them.",,The Waste Lands,Stephen King,1991,93,17,1,0,0,0,0,0.0,96.52,1.0
+Beating heroin is child's play compared to beating your childhood.,,The Waste Lands,Stephen King,1991,66,10,1,0,0,0,0,-0.7783,69.79,1.0
+"In the end, all things, even the Beams, serve the Dark Tower. Did you think you would be any different?",,The Waste Lands,Stephen King,1991,103,20,2,0,0,0,1,0.0,95.17,0.85
+"Ka was like a wheel, its one purpose to turn, and in the end it always came back to the place where it had started.",,The Waste Lands,Stephen King,1991,115,25,1,0,0,0,0,0.3612,88.4,0.88
+"See the turtle of enormous girth, on his shell he holds the earth.",,The Waste Lands,Stephen King,1991,66,13,1,0,0,0,0,0.0,92.12,0.9230769230769231
+The lessons which I remember the longest are always the ones that are self-taught.,,The Waste Lands,Stephen King,1991,82,14,1,0,0,0,0,0.0,74.19,0.8571428571428571
+The wheel of ka turns and the world moves on.,,The Waste Lands,Stephen King,1991,45,10,1,0,0,0,0,0.0,112.09,1.0
+"Wait or me where the trees clear and the water's sweet. I'll come to ye, ay, as sure as dawn makes shadows run west.",,The Waste Lands,Stephen King,1991,116,24,2,0,0,0,0,0.7845,101.6,0.9166666666666666
+"It was life, often unsatisfying, frequently cruel, usually boring, sometimes beautiful, once in a while exhilarating.",,Insomnia,Stephen King,1994,117,16,1,0,0,0,0,0.128,12.94,1.0
+"It's a long walk back to Eden, sweetheart, so don't sweat the small stuff.",,Insomnia,Stephen King,1994,74,14,1,0,0,0,0,0.6486,99.57,1.0
+"Of all the things which make up our Short-Time lives, sleep is surely the best.",,Insomnia,Stephen King,1994,79,15,1,0,0,0,0,0.7964,98.55,0.9333333333333333
+"Sooner or later everything you thought you'd left behind comes around again. For good or ill, it comes around again.",,Insomnia,Stephen King,1994,116,20,2,0,0,0,0,0.0258,86.71,0.8
+The hardest for man is lie to himself between 3:00 and 6:00 in the morning.,,Insomnia,Stephen King,1994,75,15,1,0,0,0,0,0.0,81.63,1.0
+"perhaps real beauty was something unrecognized by the conscious self, a work that was always in progress, a thing of being rather than seeing.",,Insomnia,Stephen King,1994,142,24,1,0,0,0,0,0.765,55.58,0.9166666666666666
+A man with a good wife is the luckiest of God's creatures...,,The Green Mile,Stephen King,1996,60,12,3,0,0,0,0,0.7783,84.68,1.0
+Atonement was powerful; it was the lock on the door you closed against the past.,,The Green Mile,Stephen King,1996,80,15,1,0,0,0,0,0.4215,90.09,0.8
+"It's strange how pain marks our faces, and makes us look like family.",,The Green Mile,Stephen King,1996,69,13,1,0,0,0,0,-0.3818,92.12,1.0
+"On the day of my judgment, when I stand before God, what am I gonna say? That it was my job?",,The Green Mile,Stephen King,1996,92,21,2,0,0,0,2,0.3527,103.12,0.9047619047619048
+Sometimes the embers are better than the campfire.,,The Green Mile,Stephen King,1996,50,8,1,0,0,0,0,0.4404,71.82,0.875
+"The world turns, that's all. You can hold on and turn with it, or stand up to protest and be spun right off.",,The Green Mile,Stephen King,1996,108,23,2,0,0,0,0,-0.25,110.56,0.9565217391304348
+"Time takes it all, whether you want it to or not.",,The Green Mile,Stephen King,1996,49,11,1,0,0,0,0,0.0772,111.07,0.9090909090909091
+What our parents tell us when we are small seldom goes ignored.,,The Green Mile,Stephen King,1996,63,12,1,0,0,0,0,0.2411,84.68,1.0
 "Because sometimes, silence is best.",Roland,Wizard and Glass,Stephen King,1997,35,5,1,6,1,0,0,0.6369,66.4,1.0
 "If you love me, then love me.",Susan Delgado,Wizard and Glass,Stephen King,1997,29,7,1,13,2,0,0,0.8555,115.13,0.8571428571428571
 It seemed to him that the most horrible fact of human existence was that broken hearts mended.,,Wizard and Glass,Stephen King,1997,94,17,1,0,0,0,0,-0.3804,71.14,0.9411764705882353
+A writer is a man who has taught his mind to misbehave.,,Bag of Bones,Stephen King,1998,55,12,1,0,0,0,0,-0.4404,84.68,1.0
+And perhaps the greatest blessing was that we never knew how short the time was.,,Bag of Bones,Stephen King,1998,80,15,1,0,0,0,0,0.8126,81.63,0.9333333333333333
+"Any good marriage is secret territory, a necessary white space on society's map.",,Bag of Bones,Stephen King,1998,80,13,1,0,0,0,0,0.4404,49.82,1.0
+"Compared to the dullest human being actually walking about on the face of the earth, the most brilliantly drawn character in a novel is but a bag of bones.",,Bag of Bones,Stephen King,1998,155,29,1,0,0,0,0,0.3499,58.96,0.8275862068965517
+"Her body was wrapped in shadows like moth wings, like rose-petals.",,Bag of Bones,Stephen King,1998,66,11,1,0,0,0,0,0.6124,102.61,0.9090909090909091
+I felt lonely and content at the same time. I believe that is a rare kind of happiness.,,Bag of Bones,Stephen King,1998,87,18,2,0,0,0,0,0.204,87.72,0.9444444444444444
+"I think reality is thin, you know, thin as lake ice after a thaw, and we fill our lives with noise and light and motion to hide that thinness from ourselves.",,Bag of Bones,Stephen King,1998,157,31,1,0,0,0,0,-0.1779,73.85,0.9354838709677419
+"Murder is the worst kind of pornography, murder is let me do what I want taken to its final extreme.",,Bag of Bones,Stephen King,1998,100,20,1,0,0,0,0,-0.9349,68.1,0.95
+The look of the sky as the day's blue blood runs out of its cheek.,,Bag of Bones,Stephen King,1998,66,15,1,0,0,0,0,0.0,107.01,0.8666666666666667
+"The muses are ghosts, and sometimes they come uninvited.",,Bag of Bones,Stephen King,1998,56,9,1,0,0,0,0,0.0,62.34,1.0
+The sun had burned through and the day had gone from dull to dazzling.,,Bag of Bones,Stephen King,1998,70,14,1,0,0,0,0,-0.4019,99.57,0.9285714285714286
+"The water was glassy and calm, still candy-colored in the afterglow of sunset.",,Bag of Bones,Stephen King,1998,78,13,1,0,0,0,0,0.3182,66.74,1.0
+"This is how we go on: one day at a time, one meal at a time, one pain at a time, one breath at a time.",,Bag of Bones,Stephen King,1998,102,26,1,0,0,0,0,-0.5106,95.85,0.5769230769230769
+What comes in when daylight leaves is a kind of certainty: that beneath the skin there is a secret.,,Bag of Bones,Stephen King,1998,99,19,1,0,0,0,0,0.1796,77.57,0.8947368421052632
+"When an imaginative person gets into mental trouble, the line between seeming and being has a way of disappearing.",,Bag of Bones,Stephen King,1998,114,19,1,0,0,0,0,-0.4019,43.73,1.0
+It's God's nature to come on in the bottom of the ninth.,Tom,The Girl Who Loved Tom Gordon,Stephen King,1999,56,12,1,3,1,0,0,0.0,93.14,0.9166666666666666
+"It was a miracle. She was sitting out here in the darkening, drippy woods, lost and alone, but she could hear thirty thousand people.",,The Girl Who Loved Tom Gordon,Stephen King,1999,133,24,2,0,0,0,0,0.0644,76.22,0.9583333333333334
+"It was like drowning, only from the inside out.",,The Girl Who Loved Tom Gordon,Stephen King,1999,47,9,1,0,0,0,0,0.3612,87.72,1.0
+The world had teeth and it could bite you with them anytime it wanted.,,The Girl Who Loved Tom Gordon,Stephen King,1999,70,14,1,0,0,0,0,0.0,99.57,0.9285714285714286
+You could get used to anything if you had to.,,The Girl Who Loved Tom Gordon,Stephen King,1999,45,10,1,0,0,0,0,0.0,103.63,1.0
+"After that we're going to be heroes. Not because we want to, but because there are no other options.",,Dreamcatcher,Stephen King,2001,100,19,2,0,0,0,0,-0.1928,78.75,0.9473684210526315
+"He will be with his friends, and that always feels like coming home.",,Dreamcatcher,Stephen King,2001,68,13,1,0,0,0,0,0.6808,92.12,1.0
+Hearts were made to be broken and minds were made to be changed.,,Dreamcatcher,Stephen King,2001,64,13,1,0,0,0,0,0.296,100.58,0.6923076923076923
+Memory is the basis of every journey.,,Dreamcatcher,Stephen King,2001,37,7,1,0,0,0,0,0.0,55.91,1.0
+"Perhaps all the science-fiction stories he read about time travel had it right: you can’t change the past, no matter how you try.",,Dreamcatcher,Stephen King,2001,129,23,1,0,0,0,0,-0.0191,73.51,0.9130434782608695
+Pride was the belt you used to hold your pants up when you had no pants.,,Dreamcatcher,Stephen King,2001,72,16,1,0,0,0,0,0.0516,106.0,0.9375
+"The body is either stupid or infinitely wise, but in either case it is spared the terrible witchery of thought.",,Dreamcatcher,Stephen King,2001,111,20,1,0,0,0,0,-0.6486,68.1,0.9
+"Time, Eddie had decided during this period, was in large part created by external events. When a lot of interesting shit was happening, time seemed to go by fast. If you got stuck with nothing but the usual boring shit, it slowed down.",Eddie,Wolves of the Calla,Stephen King,2003,235,43,3,5,1,0,0,-0.7906,73.88,0.9534883720930233
+"The expression Jake saw on all the faces, oldest to youngest, was the same: pure joy. Not just that, he thought, and remembered a phrase his English teacher had used about how some books make us feel: the ecstasy of perfect recognition.",Jake,Wolves of the Calla,Stephen King,2003,236,42,2,4,1,0,0,0.9081,75.54,0.9523809523809523
 "First comes smiles, then lies. Last is gunfire.",Roland,Wolves of the Calla,Stephen King,2003,47,8,2,6,1,0,0,0.0772,109.72,1.0
-It was the possibility of darkness that made the day seem so bright.,Susannah,Wolves of the Calla,Stephen King,2003,68,13,1,8,1,0,0,0.4101,75.2,0.9230769230769231
+"At first everything went according to plan and they called it ka. When things began going wrong and the dying started, they called that ka, too. Ka, the gunslinger could have told them, was often the last thing you had to rise above.",,Wolves of the Calla,Stephen King,2003,233,43,3,0,0,0,0,-0.4767,90.8,0.8604651162790697
+But how you feel and how long you feel it doesn’t always have a lot to do with objective truth.,,Wolves of the Calla,Stephen King,2003,95,20,1,0,0,0,0,0.4497,85.02,0.85
+Definition Of A Wanderer: A guy who's always looking beyond,,Wolves of the Calla,Stephen King,2003,59,10,0,0,0,0,0,0.0,44.41,0.9
+Head clear. Mouth shut. See much. Say little.,,Wolves of the Calla,Stephen King,2003,45,8,4,0,0,0,0,0.3818,105.66,1.0
+"I wanted to leave. Every day the sun would set a little earlier, and every day I’d feel the call of those roads, those highways in hiding, a little more strongly.",,Wolves of the Calla,Stephen King,2003,162,31,2,0,0,0,0,-0.0735,81.12,0.8387096774193549
+"I wanted to say goodbye to someone, and have someone say goodbye to me. The goodbyes we speak and the goodbyes we hear are the goodbyes that tell us we're still alive.",,Wolves of the Calla,Stephen King,2003,167,32,2,0,0,0,0,0.3818,80.62,0.71875
+"I wanted to say goodbye to someone, and have someone say goodbye to me. The goodbyes we speak and the goodbyes we hear are the goodbyes that tell us we’re still alive.",,Wolves of the Calla,Stephen King,2003,167,32,2,0,0,0,0,0.3818,80.62,0.71875
+It was the possibility of darkness that made the day seem so bright.,,Wolves of the Calla,Stephen King,2003,68,13,1,0,0,0,0,0.4101,75.2,0.9230769230769231
+Ka works and the world moves on.,,Wolves of the Calla,Stephen King,2003,32,7,1,0,0,0,0,0.0,115.13,1.0
+"May your first day in hell last ten thousand years, and may it be the shortest.",,Wolves of the Calla,Stephen King,2003,79,16,1,0,0,0,0,-0.6808,97.54,1.0
+"No one ever does live happily ever after, but we leave the children to find that out for themselves, don’t we?",,Wolves of the Calla,Stephen King,2003,110,21,1,0,0,0,1,0.1027,75.54,0.9523809523809523
+Time is a face on the water,,Wolves of the Calla,Stephen King,2003,27,7,0,0,0,0,0,0.0,106.67,1.0
+"Wandering’s the most addictive drug there is, I think, and every hidden road leads on to a dozen more.",,Wolves of the Calla,Stephen King,2003,102,19,1,0,0,0,0,0.0,77.57,1.0
+"We spread the time as we can, but in the end the world takes it all back.",,Wolves of the Calla,Stephen King,2003,73,17,1,0,0,0,0,0.0,104.98,0.8823529411764706
+"Laughter is like a hurricane: once it reaches a certain point, it becomes self-feeding, self-supporting.",Susannah,The Dark Tower,Stephen King,2004,104,15,1,8,1,0,0,0.7906,47.79,0.8666666666666667
 "Even if the torture stops, I'll die. And you'll die too, for when love leaves the world, all hearts are still.",The Beam,The Dark Tower,Stephen King,2004,110,21,2,8,2,0,0,-0.5859,111.58,0.9523809523809523
+A coward judges all he sees by what he is.,,The Dark Tower,Stephen King,2004,42,10,1,0,0,0,0,-0.4588,103.63,0.9
+"And will I tell you that these three lived happily ever after? I will not, for no one ever does. But there was happiness. And they did live.",,The Dark Tower,Stephen King,2004,140,28,4,0,0,0,1,0.8245,89.75,0.8571428571428571
+Battles that last five minutes spawn legends that live a thousand years.,,The Dark Tower,Stephen King,2004,72,12,1,0,0,0,0,-0.3818,84.68,0.9166666666666666
+He who speaks without an attentive ear is mute.,,The Dark Tower,Stephen King,2004,47,9,1,0,0,0,0,0.0,87.72,1.0
+"I've met talespinners before, Jake, and they're all cut more or less from the same cloth. They tell tales because they're afraid of life.",,The Dark Tower,Stephen King,2004,137,24,2,0,0,0,0,-0.2732,93.14,0.9583333333333334
+"It'll be your damnation, boy. You'll wear out a hundred pairs of boots on your way to hell.",,The Dark Tower,Stephen King,2004,91,18,2,0,0,0,0,-0.8481,104.64,0.9444444444444444
+"May you find your Tower, Roland, and breach it, and may you climb to the top!",,The Dark Tower,Stephen King,2004,77,16,1,0,0,1,0,0.2714,97.54,0.875
+Never's the word God listens for when he needs a laugh.,,The Dark Tower,Stephen King,2004,55,11,1,0,0,0,0,0.6908,94.15,1.0
+"Our time here is brief, our risk enormous. Don't waste the one or increase the other, if you please.",,The Dark Tower,Stephen King,2004,100,19,2,0,0,0,0,0.6262,95.67,0.9473684210526315
+"The road and the tale have both been long, would you not say so? The trip has been long and the cost has been high... but no great thing was ever attained easily.",,The Dark Tower,Stephen King,2004,162,33,5,0,0,0,1,-0.3272,102.61,0.8181818181818182
+"Time flies, knells call, life passes, so hear my prayer. Each man owes a death. This is Jake. Give him peace.",,The Dark Tower,Stephen King,2004,109,21,4,0,0,0,0,-0.1027,116.86,1.0
+"You needn't die happy when your time comes, but you must die satisfied, for you have lived your life from the beginning to the end and ka is always served.",,The Dark Tower,Stephen King,2004,155,30,1,0,0,0,0,-0.3769,74.87,0.8666666666666667
+"He said the mind can calculate, but the spirit yearns, and the heart knows what the heart knows.",,Cell,Stephen King,2006,96,18,1,0,0,0,0,0.9398,87.05,0.7777777777777778
+Man has come to dominate the planet thanks to two essential traits. One is intelligence. The other has been the absolute willingness to kill anyone and anything that gets in his way.,,Cell,Stephen King,2006,182,32,3,0,0,0,0,0.2263,69.07,0.875
+This is how a man looks when he's deciding that the risk of death is better than the risk of change.,,Cell,Stephen King,2006,100,21,1,0,0,0,0,-0.6369,92.46,0.8095238095238095
+"What Darwin was too polite to say, my friends, is that we came to rule the earth not because we were the smartest, or even the meanest, but because we have always been the craziest, most murderous motherfuckers in the jungle.",,Cell,Stephen King,2006,225,41,1,0,0,0,0,-0.611,55.24,0.8048780487804879
+"They walked back into the world together, wearing the gift that had been given them: just life.",Barbie,Under the Dome,Stephen King,2009,95,17,1,6,1,0,0,0.4404,79.6,0.9411764705882353
+"Hello, Not-There. Not-There was her private name for God just lately.",Piper,Under the Dome,Stephen King,2009,69,11,2,5,1,0,0,0.2732,68.77,1.0
+"Give a man or woman back his self-respect, and in most cases-not all, but most-you also give back that person's ability to think with at least some clarity.",,Under the Dome,Stephen King,2009,156,28,1,0,0,0,0,0.7579,51.52,0.9642857142857143
+If you can't laugh when things go bad--laugh and put on a little carnival--then you're either dead or wishing you were.,,Under the Dome,Stephen King,2009,119,21,1,0,0,0,0,-0.7449,75.54,0.9523809523809523
+Murder is like potato chips: you can't stop with just one.,,Under the Dome,Stephen King,2009,58,11,1,0,0,0,0,-0.3208,94.15,1.0
+She can't help it. She's got the soul of a poet and the emotional makeup of a junkyard dog.,,Under the Dome,Stephen King,2009,91,19,2,0,0,0,0,-0.1675,87.21,0.8421052631578947
+Sorrow for a wrong was better than nothing...but no amount of after-the-fact sorrow could ever atone for joy taken in destruction.,,Under the Dome,Stephen King,2009,130,21,4,0,0,0,0,-0.8442,69.28,0.9523809523809523
+"The dead do not see, unless they look from a brighter place than this darkling plain where ignorant armies clash by night.",,Under the Dome,Stephen King,2009,122,22,1,0,0,0,0,-0.5859,82.99,1.0
+"WHEN THE POWER OF LOVE IS STRONGER THAN THE LOVE OF POWER, THE WORLD WILL KNOW PEACE—JIMI HENDRIX.",,Under the Dome,Stephen King,2009,98,18,1,0,0,0,0,0.9001,78.59,0.7777777777777778
+"When the dawn was still long hours away, bad thoughts took on flesh and began to walk. In the middle of the night thoughts became zombies.",,Under the Dome,Stephen King,2009,138,26,2,0,0,0,0,-0.5423,92.12,0.8846153846153846
 "A person's never too old for stories. Man and boy, girl and woman, never too old. We live for them.",Roland Deschain,The Wind Through the Keyhole,Stephen King,2012,99,20,3,15,2,0,0,0.0,90.05,0.8
 "In the end, the wind takes everything, doesn't it? And why not? If the sweetness of our lives did not depart, there would be no sweetness at all.",,The Wind Through the Keyhole,Stephen King,2012,145,28,3,0,0,0,2,-0.6824,95.88,0.8928571428571429
 "Pray for rain all you like, but dig a well as you do it.",,The Wind Through the Keyhole,Stephen King,2012,56,14,1,0,0,0,0,0.6187,108.03,0.9285714285714286
+"Because that was then and this is now. Because the past is gone, even though it defines the present.",,Doctor Sleep,Stephen King,2013,100,19,2,0,0,0,0,0.0,95.67,0.8421052631578947
+Death was no less a miracle than birth.,,Doctor Sleep,Stephen King,2013,39,8,1,0,0,0,0,-0.3774,88.74,1.0
+He had come to believe that life was a series of ironic ambushes.,,Doctor Sleep,Stephen King,2013,65,13,1,0,0,0,0,-0.128,75.2,1.0
+"Life was a wheel, its only job was to turn, and it always came back to where it started.",,Doctor Sleep,Stephen King,2013,88,19,1,0,0,0,0,0.0,86.03,0.8421052631578947
+Sometimes you had to know. Sometimes you had to see.,,Doctor Sleep,Stephen King,2013,52,10,2,0,0,0,0,0.0,100.24,0.6
+"The good thing about being old, is you don’t have to worry about dying young.",,Doctor Sleep,Stephen King,2013,77,15,1,0,0,0,0,0.0,90.09,0.9333333333333333
+"The shining. It was a good name, a comforting name, because she had always thought of it as a dark thing.",,Doctor Sleep,Stephen King,2013,105,21,2,0,0,0,0,0.6808,84.0,0.8571428571428571
+The silence wasn't uncomfortable or hostile but exhausted--the quiet of people who have a great deal to think about but not a hell of a lot to say.,,Doctor Sleep,Stephen King,2013,147,28,1,0,0,0,0,0.9304,59.98,0.8214285714285714
+"The world was the Overlook Hotel, where the party never ended. Where the dead were alive forever.",,Doctor Sleep,Stephen King,2013,97,17,2,0,0,0,0,0.0,79.77,0.8823529411764706
+There came a time when you realized that moving on was pointless. That you took yourself with you wherever you went.,,Doctor Sleep,Stephen King,2013,116,21,2,0,0,0,0,0.0,86.2,0.8571428571428571
+We will not regret the past nor wish to shut the door on it.,,Doctor Sleep,Stephen King,2013,60,14,1,0,0,0,0,0.0191,99.57,0.9285714285714286
+We're only as sick as our secrets.,,Doctor Sleep,Stephen King,2013,34,7,1,0,0,0,0,-0.5106,89.75,0.8571428571428571
+Any system created by the mind of man can be hacked by the mind of man.,,Mr. Mercedes,Stephen King,2014,71,16,1,0,0,0,0,-0.1779,89.08,0.75
+Eighty percent of success is just showing up.,,Mr. Mercedes,Stephen King,2014,45,8,1,0,0,0,0,0.5719,80.28,1.0
+"Even on the darkest day, the sun shines on some dog’s ass.",,Mr. Mercedes,Stephen King,2014,58,12,1,0,0,0,0,-0.7717,101.6,0.8333333333333334
+Hodges has read there are wells in Iceland so deep you can drop a stone down them and never hear the splash. He thinks some human souls are like that.,,Mr. Mercedes,Stephen King,2014,150,30,2,0,0,0,0,0.34,98.55,0.9666666666666667
+"I did something good for you just now. Before the sun goes down tonight, I want you to pass it on.",,Mr. Mercedes,Stephen King,2014,98,21,2,0,0,0,0,0.4939,103.12,0.9047619047619048
+"Imagination is a good servant, and a bad master.",,Mr. Mercedes,Stephen King,2014,48,9,1,0,0,0,0,-0.1531,62.34,0.8888888888888888
+"It wasn't fair, but what is?",,Mr. Mercedes,Stephen King,2014,28,6,1,0,0,0,1,-0.1232,99.23,1.0
+Never tell a lie when you can tell the truth.,,Mr. Mercedes,Stephen King,2014,45,10,1,0,0,0,0,0.3182,103.63,0.9
+"That's all history is, after all: scar tissue.",,Mr. Mercedes,Stephen King,2014,46,8,1,0,0,0,0,0.0,71.82,1.0
+"The truth is darkness, and the only thing that matters is making a statement before one enters it.",,Mr. Mercedes,Stephen King,2014,98,18,1,0,0,0,0,0.1027,70.13,0.9444444444444444
+"When you gaze into the abyss, Nietzsche wrote, the abyss also gazes into you.",,Mr. Mercedes,Stephen King,2014,77,14,1,0,0,0,0,0.0,74.19,0.8571428571428571
 It's been almost a century that Edward's been alone. Now he's found you. Do you think any of us want to look into his eyes for the next hundred years if he loses you?,Alice Cullen,Twilight,Stephenie Meyer,2005,166,34,3,12,2,0,1,-0.4588,93.85,0.9705882352941176
 "About three things I was absolutely positive. First, Edward was a vampire. Second, there was part of him that thirsted for my blood.",Bella Swan,Twilight,Stephenie Meyer,2005,132,23,3,10,2,0,0,0.5984,80.58,0.9130434782608695
 "I'd never given much thought to how I would die  though I'd had reason enough in the last few months  but even if I had, I would not have imagined it like this.",Bella Swan,Twilight,Stephenie Meyer,2005,160,33,1,10,2,0,0,0.2023,80.28,0.8787878787878788
@@ -2017,6 +2506,31 @@ Knowing how stories work is almost all the battle.,,Witches Abroad,Terry Pratche
 Magic's far too important to be used for rulin' people.,,Witches Abroad,Terry Pratchett,1991,55,10,1,0,0,0,0,0.2023,78.25,1.0
 "The wages of sin is death but so is the salary of virtue, and at least the evil get to go home early on Fridays.",,Witches Abroad,Terry Pratchett,1991,112,25,1,0,0,0,0,-0.7992,88.4,0.88
 You can't go around building a better world for people. Only people can build a better world for people. Otherwise it's just a cage.,,Witches Abroad,Terry Pratchett,1991,132,24,3,0,0,0,0,0.7003,80.28,0.75
+Perception’s a tool that’s pointed on both ends.,Dr. Bloom,Red Dragon,Thomas Harris,1981,48,8,1,9,2,0,0,0.0,80.28,1.0
+"Before Me you are a slug in the sun. You are privy to a great Becoming and you recognize nothing. Fear is not what you owe Me, Lounds, you and the other pismires. You owe Me awe.",,Red Dragon,Thomas Harris,1981,178,37,4,0,0,0,0,0.7736,95.88,0.7297297297297297
+Don't think you can persuade me with appeals to my intellectual vanity.,,Red Dragon,Thomas Harris,1981,71,12,1,0,0,0,0,0.34,50.84,1.0
+"Fear comes with imagination, it’s a penalty, it’s the price of imagination.",,Red Dragon,Thomas Harris,1981,75,12,1,0,0,0,0,-0.7351,59.3,0.9166666666666666
+"In the Green Machine there is no mercy; we make mercy, manufacture it in parts that have overgrown our basic reptile brain.",,Red Dragon,Thomas Harris,1981,123,22,1,0,0,0,0,0.1002,66.07,1.0
+"In the Green Machine there is no mercy; we make mercy, manufacture it in parts that have overgrown our basic reptile brain. There is no murder. We make murder, and it matters only to us.",,Red Dragon,Thomas Harris,1981,186,35,3,0,0,0,0,-0.121,76.52,0.8857142857142857
+"One can only see what one observes, and one observes only things which are already in the mind.",,Red Dragon,Thomas Harris,1981,95,18,1,0,0,0,0,0.0,78.59,0.8888888888888888
+Shiloh isn’t haunted – men are haunted. Shiloh doesn’t care.,,Red Dragon,Thomas Harris,1981,60,10,2,0,0,0,0,-0.4588,83.83,0.9
+The longing need to be noticed that is often miscalled ego.,,Red Dragon,Thomas Harris,1981,59,11,1,0,0,0,0,-0.0258,77.23,1.0
+The very air had screams smeared on it.,,Red Dragon,Thomas Harris,1981,39,8,1,0,0,0,0,-0.3535,114.12,1.0
+"There is no murder. We make murder, and it matters only to us.",,Red Dragon,Thomas Harris,1981,62,13,2,0,0,0,0,-0.2173,90.26,1.0
+"To write a novel, you begin with what you can see and then you add what came before and what came after.",,Red Dragon,Thomas Harris,1981,104,22,1,0,0,0,0,0.3182,82.99,0.7272727272727273
+We live in a primitive time—neither savage nor wise. Half measures are the curse of it. Any rational society would either kill me or give me my books.,,Red Dragon,Thomas Harris,1981,150,28,3,0,0,0,0,-0.9294,78.96,0.9642857142857143
+"When you feel strain, keep your mouth shut if you can.",,Red Dragon,Thomas Harris,1981,54,11,1,0,0,0,0,-0.0516,111.07,0.9090909090909091
+I ate his liver with some fava beans and a nice chianti,Hannibal Lecter,The Silence of the Lambs,Thomas Harris,1988,55,12,0,15,2,0,0,0.4215,84.68,1.0
+"I have no plans to call on you, Clarice, the world being more interesting with you in it.",Hannibal Lecter,The Silence of the Lambs,Thomas Harris,1988,89,18,1,15,2,0,0,0.2006,87.05,1.0
+"Evil's just destructive? Then storms are evil, if it's that simple.",,The Silence of the Lambs,Thomas Harris,1988,67,11,2,0,0,0,1,-0.8555,91.27,1.0
+I have to hunt a thing that lives on tears.,,The Silence of the Lambs,Thomas Harris,1988,43,10,1,0,0,0,0,-0.2263,112.09,1.0
+Nothing made me happen. I happened.,,The Silence of the Lambs,Thomas Harris,1988,35,6,2,0,0,0,0,0.0,73.85,1.0
+Nothing makes us more vulnerable than loneliness except greed.,,The Silence of the Lambs,Thomas Harris,1988,62,9,1,0,0,0,0,-0.788,45.42,1.0
+"Orion is above the horizon now, and near it Jupiter, brighter than it will ever be.",,The Silence of the Lambs,Thomas Harris,1988,83,16,1,0,0,0,0,0.3818,89.08,0.9375
+Problem-solving is hunting; it is savage pleasure and we are born to it.,,The Silence of the Lambs,Thomas Harris,1988,72,13,1,0,0,0,0,0.1779,66.74,0.9230769230769231
+"The old definition of moth was, 'anything that gradually, silently eats, consumes, or wages any other thing.'",,The Silence of the Lambs,Thomas Harris,1988,109,17,1,0,0,0,0,0.0,54.22,1.0
+We rarely get to prepare ourselves in meadows or on graveled walks; we do it on short notice in places without windows.,,The Silence of the Lambs,Thomas Harris,1988,119,22,1,0,0,0,0,-0.128,74.53,0.9090909090909091
+"What is the first and principal thing he does, what need does he serve by killing? He covets.",,The Silence of the Lambs,Thomas Harris,1988,93,18,2,0,0,0,1,-0.6597,87.05,0.9444444444444444
 Art enables us to find ourselves and lose ourselves at the same time.,,No Man Is an Island,Thomas Merton,1955,69,13,1,0,0,0,0,-0.4019,92.12,0.9230769230769231
 "We don’t have time, Nephew, time has us. It holds us in its mouth like an owl holds a field mouse.",,There There,Tommy Orange,2018,98,21,2,0,0,0,0,0.3612,111.58,0.9523809523809523
 Love is never any better than the lover.,Pauline,The Bluest Eye,Toni Morrison,1970,40,8,1,7,1,0,0,0.7646,88.74,1.0
@@ -2043,6 +2557,19 @@ It is no shame to have a dirty face- the shame comes when you keep it dirty.,,In
 "The walls of the cell fell away, the sky came down, I saw the big yellow bird.",,In Cold Blood,Truman Capote,1966,78,17,1,0,0,0,0,0.0,96.52,0.8823529411764706
 There is considerable hypocrisy in conventionalism. Any thinking person is aware of this paradox; but in dealing with conventional people it is advantageous to treat them as though they were not hypocrites. It isn't a question of faithfulness to your own concepts; it is a matter of compromise so that you can remain an individual without the constant threat of conventional pressures.,,In Cold Blood,Truman Capote,1966,385,62,3,0,0,0,0,0.9055,50.46,0.8225806451612904
 They shared a doom against which virtue was no defense,,In Cold Blood,Truman Capote,1966,54,10,0,0,0,0,0,0.2801,103.63,1.0
+"And when I fall in love, I will build a mountain to touch the sky. Then, my lover and I will have the best of both worlds, reality firmly under our feet, while we have our heads in the clouds.",,Flowers in the Attic,V.C. Andrews,1979,192,40,2,0,0,0,0,0.9217,85.02,0.8
+At the end of the rainbow waited the pot of gold. But rainbows were made of faint and fragile gossamer-,,Flowers in the Attic,V.C. Andrews,1979,103,20,1,0,0,0,0,0.0,86.71,0.8
+"Children are very wise intuitively; they know who loves them most, and who only pretends.",,Flowers in the Attic,V.C. Andrews,1979,89,15,1,0,0,0,0,0.7713,73.17,0.9333333333333333
+"It is so appropriate to color hope yellow, like the sun we seldom saw.",,Flowers in the Attic,V.C. Andrews,1979,70,14,1,0,0,0,0,0.6597,74.19,1.0
+"Love doesn't always come when you want it to. Sometimes it just happens, despite your will.",,Flowers in the Attic,V.C. Andrews,1979,91,16,2,0,0,0,0,0.6705,88.74,0.9375
+"Lovers are meant to look up at the sky, for up there no beautiful illusions can be trampled upon.",,Flowers in the Attic,V.C. Andrews,1979,97,19,1,0,0,0,0,0.0654,77.57,0.9473684210526315
+Love… I put so much faith in it. Truth… I kept believing it falls always from the lips of the one you love.,,Flowers in the Attic,V.C. Andrews,1979,107,23,2,0,0,0,0,0.8062,102.1,0.9130434782608695
+"People have a way of believing nothing terrible will ever happen to them, only to others.",,Flowers in the Attic,V.C. Andrews,1979,89,16,1,0,0,0,0,0.3724,55.24,0.9375
+"People make the rules of society, not God.",,Flowers in the Attic,V.C. Andrews,1979,42,8,1,0,0,0,0,-0.2057,80.28,1.0
+"Say good-bye to the past, and hello to the future... We've got everything ahead, waiting for us.",,Flowers in the Attic,V.C. Andrews,1979,96,17,4,0,0,0,0,0.0,79.77,0.8823529411764706
+"The secret of love was in the eyes, the way one person looked at another, the way eyes communicated and spoke.",,Flowers in the Attic,V.C. Andrews,1979,110,21,1,0,0,0,0,0.6369,67.08,0.8571428571428571
+Through books Cathy and I have lived a zillion lives... our vicarious way to feel alive.,,Flowers in the Attic,V.C. Andrews,1979,88,16,4,0,0,0,0,0.3818,88.74,1.0
+"We don’t anticipate accidents, nor do we expect to die young.",,Flowers in the Attic,V.C. Andrews,1979,61,11,1,0,0,0,0,-0.7351,68.77,1.0
 Humans are so ill-equipped for peace.,,The Invisible Life of Addie LaRue,V.E. Schwab,2020,37,6,1,0,0,0,0,0.5809,90.77,1.0
 "You will lose what you value most, so treasure it while you can.",Rhonda,,Vampire Academy,2007,64,13,1,6,1,0,0,0.3551,92.12,0.9230769230769231
 Fear doesn't shut you down; it wakes you up.,Four,Divergent,Veronica Roth,2011,44,9,1,4,1,0,0,-0.4939,104.64,0.8888888888888888
